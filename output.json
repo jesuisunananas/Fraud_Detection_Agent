@@ -1,0 +1,3188 @@
+[
+    {
+        "url": "https://22betcanada.com",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website is an online gambling platform, not a crypto scam. It offers sports betting and casino games with bonuses. No cryptocurrency addresses are visible on the landing page. To determine if it accepts cryptocurrency and to find potential addresses, it would be necessary to proceed with registration or login to access the deposit section. Clicking \"Register Now\" is the most direct path to potentially reveal payment methods."
+    },
+    {
+        "url": "https://8w.bqpxaf.xyz",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://addmklwhisky.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website appears to be an e-commerce platform selling whiskey, specifically 'The Macallan'. There are no indications of cryptocurrency, investment schemes, or any elements typically associated with crypto scams. No cryptocurrency addresses are visible on the page."
+    },
+    {
+        "url": "https://adnins.cloud",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a Cloudflare \"Connection timed out\" error (Error code 522), indicating that the website content could not be loaded. Therefore, it's impossible to assess for scam characteristics or find cryptocurrency addresses. No action is needed as there are no interactive elements to reveal further content."
+    },
+    {
+        "url": "https://alayasbeauty.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website is a standard e-commerce platform selling beauty products like contact lenses and hair extensions. There is no mention of cryptocurrency, investments, or any elements typically associated with crypto scams. No cryptocurrency addresses are visible on the page, and clicking 'Login' is not expected to reveal any."
+    },
+    {
+        "url": "https://astarwap.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://aurionthexxa.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://bahrainiptv.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://bian-gold.globalonline.workers.dev",
+        "classification": "scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The page explicitly states 'Warning Suspected Phishing' and 'This website has been reported for potential phishing' by Cloudflare, indicating it is a scam. No cryptocurrency addresses are visible, and no actions like login or deposit are present."
+    },
+    {
+        "url": "https://bitocitex.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The web server for bitocitex.com is down, displaying a Cloudflare error page (Error code 521). No website content is accessible, so it's impossible to determine if it's a scam or to find any cryptocurrency addresses. The page itself is not a scam."
+    },
+    {
+        "url": "https://bozei.xyz",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://bradfordtradeins.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website displays characteristics of a High-Yield Investment Program (HYIP) scam, including promises of unrealistic fixed weekly returns (e.g., 70% weekly), vague descriptions of 'state of the art crypto mining technologies', exaggerated market figures, and a suspicious copyright date in the future (2026). No cryptocurrency addresses are visible on the landing page. Clicking 'Login' is the next step to potentially access a dashboard where deposit addresses might be provided. The website claims to offer 'fastest and most exciting returns on your investments' and 'guarantee the security of your investment', which are common red flags for investment scams. Additionally, the copyright year is listed as '\u00a92026', which is in the future, indicating a lack of legitimacy. An action to click 'Login' is chosen to attempt to find cryptocurrency deposit addresses, which are often revealed after account creation or login on investment platforms."
+    },
+    {
+        "url": "https://braiinscryptminning.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://busigirh.xyz",
+        "classification": "not scam",
+        "confidence": 0.6,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as an IPTV streaming service and explicitly states in its FAQ that it accepts cryptocurrency (Bitcoin, Ethereum, etc.) as a payment method. No cryptocurrency addresses are visible on the current page. To potentially find these addresses, it is necessary to proceed to a payment or subscription selection page, which can be accessed by clicking the 'Prices & Plans' button. The site does not exhibit typical characteristics of a crypto scam on this page."
+    },
+    {
+        "url": "https://byexdd.cc",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The page presents itself as a cryptocurrency exchange with typical features and explicitly states that deposit addresses will be revealed upon clicking the '\u5feb\u901f\u5132\u503c' (Quick Deposit) button. No immediate scam indicators are visible on this page, but the exchange's legitimacy is not fully verified. The website instructs users to click '\u5feb\u901f\u5132\u503c' (Quick Deposit) to obtain the 'latest deposit address'. This is a common tactic used by scam exchanges to trick users into depositing funds into scammer-controlled wallets, as legitimate exchanges typically provide static deposit addresses for specific cryptocurrencies and networks. This phrasing is a significant red flag for a potential scam. The website byexdd.cc has a suspicious domain. It prompts users to 'Quick Deposit' to obtain the 'latest deposit address' for a new coin subscription, which is a common tactic used by fake cryptocurrency exchanges or investment scams to trick users into sending funds to scammer-controlled addresses. No cryptocurrency addresses are visible on the current page, but the site explicitly states they will be revealed after clicking '\u5feb\u901f\u5132\u503c'."
+    },
+    {
+        "url": "https://ca7ggs-xj.myshopify.com",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "3c9ff57d6d41927b2c97b51af715b6ad",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "144176611646395275351762231654",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "34bcc718cc321ae168c1f9fc4675d6db",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1dccd443b3eb8235d5b5d5d6da8382dc",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "151968516119678728991762231653",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "17933591812325749411762231653",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "3a17356976367ffbf3dd2cee9d9ebad1",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "159347133892345898421762231653",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "118923337488134913561762231653",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "132df582bdd725b956df4dfe33711f28",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website appears to be a standard e-commerce store selling clothing and accessories. There are no elements indicative of a cryptocurrency scam, such as fake investment platforms, phishing attempts, or requests for crypto deposits. No cryptocurrency addresses are visible on the page, and the 'Bitcoin' option in the currency selector is for display purposes only, not for payment."
+    },
+    {
+        "url": "https://choxorainvestment.cc",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website promises extremely high and unrealistic returns on investment plans (e.g., 118.5% in 24 hours, 145% in 30 hours), which is a classic characteristic of a High-Yield Investment Program (HYIP) or Ponzi scheme scam. The language used to describe the platform is vague, grandiose, and contradictory, further indicating a scam. No cryptocurrency addresses are visible on the landing page, so clicking 'Login' is the next step to potentially uncover them."
+    },
+    {
+        "url": "https://claudetf.fun",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website displays characteristics of a crypto investment scam, including claims of 'AI-Powered' returns, a suspicious domain (.fun), and a display of impressive but likely fake portfolio performance with obscure tokens. A partial address '6Cx...' is shown. Clicking 'Invest with Claude' is necessary to potentially reveal a full deposit address for further investigation. The website displays highly inflated 'Current Holdings' values (millions) that are inconsistent with the 'Account Value' ($294.92), a common tactic used by investment scams to lure users. The domain '.fun' is also suspicious. Clicking 'Invest with Phantom Wallet' is the next logical step to reveal a deposit address or initiate a fraudulent transaction. A partial address '6Cx...' is already visible, likely for deposits. The website displays a significant discrepancy between the 'Account Value' ($294.92) and the sum of 'Current Holdings' (tens of millions of dollars), which is a classic tactic used by fake investment platforms to lure users into depositing funds. The claims of 'AI-Powered Crypto Portfolio' and high returns are typical of crypto investment scams. Clicking 'Invest with Phantom Wallet' is likely to prompt a wallet connection or deposit, which may reveal a cryptocurrency address."
+    },
+    {
+        "url": "https://cofuturexs.com",
+        "classification": "not scam",
+        "confidence": 0.5,
+        "extracted_addresses": [
+            {
+                "address": "1yBr59DwDvvjFNreHYcf9GFMU9",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "3KuADQsh5YBvkswAGJAsDw9m1w",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "3zybQqv9fHn16517Pvcp5R8LfHLic",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website presents itself as a cryptocurrency trading platform with generic statistics and claims of high security. No cryptocurrency addresses are immediately visible on the landing page. To determine if it's a scam and to find potential addresses, it's necessary to interact with the site, specifically by attempting to register or log in, as deposit addresses are typically revealed after account creation and login. The 'Register' button is chosen as the initial action to proceed with further investigation. The generic nature and bold claims raise some suspicion, but more interaction is needed for a definitive classification."
+    },
+    {
+        "url": "https://consultingfootpain.gr.com",
+        "classification": "not scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The page is an informational review site for non-GamStop casinos, not a scam itself. It discusses various gambling platforms and their features, including payment methods like Bitcoin, Ethereum, and Tether. However, no specific cryptocurrency addresses are displayed on this page, and no action is required to reveal them here."
+    },
+    {
+        "url": "https://copykoieliteglobal.org",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website claims to be an AI stock trading platform but accepts cryptocurrency deposits (Bitcoin, Ethereum, Binance Coin, Tether, Tron), which is highly unusual for a legitimate stock broker and a common characteristic of investment scams. A significant red flag is the copyright date of '2026', which is in the future. No cryptocurrency addresses are visible on the current page, so clicking 'Sign Up' is necessary to proceed and potentially find deposit addresses."
+    },
+    {
+        "url": "https://cryptotrackerapp.net",
+        "classification": "not scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a legitimate crypto portfolio tracker and uses 'Internet Identity' for authentication, which is a known decentralized identity system. There are no immediate scam indicators like requests for private keys or promises of unrealistic returns. However, to fully assess its legitimacy and find potential cryptocurrency addresses, it's necessary to proceed with the 'Sign In Securely' action, as a wallet tracking service would eventually require connecting a wallet or providing addresses. The website presents itself as a legitimate crypto portfolio tracker. While no immediate scam indicators or cryptocurrency addresses are visible, the 'Signing In...' button suggests a login or wallet connection process that might reveal addresses or further information. An action is required to investigate if the site prompts for wallet connection or deposit addresses after signing in. The current page alone does not provide enough information to classify it as a scam. The website presents itself as a legitimate crypto portfolio management solution, offering wallet tracking and real-time prices. It uses 'Internet Identity' for authentication, which is a known decentralized authentication system, adding a layer of legitimacy. No immediate scam indicators like requests for private keys, unrealistic promises, or visible scam addresses are present. To further investigate its functionality and potential for revealing addresses, clicking the 'Signing In...' button is the next logical step."
+    },
+    {
+        "url": "https://datahydru602.com",
+        "classification": "scam",
+        "confidence": 0.75,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as an 'AI platform' with a login page, a common setup for cryptocurrency investment scams. The domain name 'datahydru602.com' appears generic and potentially suspicious, often a characteristic of scam sites. No cryptocurrency addresses are visible on this initial login page. An action is required to proceed and potentially uncover further details or cryptocurrency addresses. Clicking the login button is the next logical step to explore the site's functionality. The domain datahydru602.com with a numerical suffix is highly suspicious and often indicative of a phishing or scam site attempting to mimic a legitimate entity. While no crypto addresses are visible on this login page, logging in is necessary to determine if the platform is an investment scam or phishing for credentials, which often leads to requests for cryptocurrency deposits. The website presents a generic login page for an 'AI platform' with a suspicious domain name (datahydru602.com). This pattern is common for phishing or investment scams designed to collect user credentials or solicit cryptocurrency deposits. No cryptocurrency addresses are visible on this initial page. To investigate further for potential crypto scam elements, such as deposit addresses or investment schemes, it is necessary to attempt to log in."
+    },
+    {
+        "url": "https://datahydruva.com",
+        "classification": "scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The website presents a login page for 'Datahydrux AI' but the provided URL is 'datahydruva.com'. This discrepancy between the displayed name and the domain is a strong indicator of a phishing attempt or a scam website. While no cryptocurrency addresses are visible on this initial page, clicking the login button is necessary to investigate further for potential crypto investment schemes or deposit requests that are typical of such scams. The website presents a login page for an \"AI training platform,\" which is a common facade used by cryptocurrency investment scams. No crypto addresses are visible on this initial page, suggesting they may be revealed after logging in. An action to click the login button is required to explore further. The website presents a login page for an 'AI platform', a common front for crypto investment scams. No cryptocurrency addresses are visible on this page. Clicking the login button is necessary to proceed and potentially reveal deposit pages, wallet information, or cryptocurrency addresses, which are often hidden behind a login for such scams. The generic nature and 'AI platform' theme raise suspicion, but direct scam evidence is not yet present on this initial page."
+    },
+    {
+        "url": "https://daxonbrite.info",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website promises 'STABLE INCOME' and 'incredible returns' through generic 'AI' features, which are common characteristics of high-yield investment program (HYIP) scams. No crypto addresses are visible on the landing page, requiring further action to investigate."
+    },
+    {
+        "url": "https://dbd414c671913cba9408de35257a7286.small1006.shop",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://dexapp.uk",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [
+            {
+                "address": "0xD499F95a6605550161cB9725A79c569bD3482F21",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x59F25596e30349e1bEf6477453FE55c7da5f0028",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website promotes an ICO for 'PROJECT TEZ' with promises of 'rewriting the rules of wealth' and 'real-time income tracking,' which are common tactics in investment scams. It lists a 'Smart Activation Wallet' address (0xD499F95a6605550161cB9725A79c569bD3482F21), which is a significant red flag, as legitimate projects do not typically require users to send funds to an 'activation wallet.' The site also features play-to-earn games, often used to lure users into depositing funds. Clicking 'Login Here' is chosen to investigate further scam mechanics or wallet connection prompts."
+    },
+    {
+        "url": "https://dreammallshopggroup.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://dreamshopgroup.com",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The page appears to be a standard e-commerce website selling various consumer goods, with prices listed in TWD. There are no mentions of cryptocurrency, investment opportunities, or any other typical scam indicators. No cryptocurrency addresses are visible on the page. Clicking 'Login' is unlikely to reveal crypto addresses as this is a shopping site, not a crypto platform."
+    },
+    {
+        "url": "https://dropclutchsociety.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website is an e-commerce store selling car-themed apparel. There are no elements suggesting it is a cryptocurrency scam, nor are any cryptocurrency addresses visible on the page. Clicking 'Log in' is not expected to reveal crypto addresses as the site's purpose is not related to cryptocurrency."
+    },
+    {
+        "url": "https://drops-marketplace.netlify.app",
+        "classification": "not scam",
+        "confidence": 0.7,
+        "extracted_addresses": [
+            {
+                "address": "0x30D6Fc10801AF0B18247622E4bc8C646B67207EA",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8c2d3d42b86bd7a13386bfb3e8306e54e47d706c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x91773767c1db54069152fc6de72659c74625adc3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9e1ca2325c053d8fbc8bb924c15aff4625f08f07",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x85074A434b58D72f6D41e1D847734cDb8D678213",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc05d0b464e1296c8f4f18dcb8cafe1dc484ed42d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5127300aa051290dbC80Ec14d00AB2C4e14A9935",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x86f2ba40428dd9f48399431894469a8a3eb34064",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA562912e1328eEA987E04c2650EfB5703757850C",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3703f1aa54a00bfb8177d18b1a18aa854112bfcc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5e7aae14e4c1d8336da4293d8412a9121870d1a4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcf1f9f4dc4a39376c8a0510867abc627bde77598",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x73d5c66a5d7716c4ed391f24bb9997fc4ae5f329",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3579166081451170a6fb1ad4982abb232c96c1d9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x903b670f89969740ADA5ccD78d8aDfFA474F7e28",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfb62879f6bc314f9956e41302800c1a1dde9cfc1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xde8e365690a02cebabda64bca04311295e9f9b08",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x60d4d65d067252be865cb17fdaed2ace9a7a03d9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x09d67198072092450878d3b4931279db1e25675b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5cd29eed1d3e9f5228510fcbf5d91eacf4403ff0",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x034bc401d317651e190b5e5ef28f02841ccff5a0",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3dbda2f174c208641f0b08715cc880c3d904ae08",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x158d0170e87d1bf999825585db6759edf44a02b1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x78afd5c961b94c27d8a384bd5674b62f2a506524",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xeca89fcd10ae6209867c46dc5f31ef32f149fe19",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8026c1b5e1c67bcd2385d318acbdf215b2db25a2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xda9f18572a797e49f01eb415bfc9bd2a668df3bf",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2950d18283cac01e484e314446706d94963002c1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc3d241186a720339bd14e19eb8095836b0f53c9c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6b2bd43bdc53ec42e998fe49eb6bebc02ff3fd91",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe01aff7a8de4f891a3268a420e087d69d242843d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x843e53fe1a8afb0c9cdd8a6c118832f83919400f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb715985d28730b4f48e3563e177a0f61bd6e30ed",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x397c353e08188ee20182bf8284ee7ede6ec81381",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xab47e723acd6fa3b57a5c6a7bc9af182e22c61dd",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9E3146290f424aF070b4EeC84F37e58e12F3B1B0",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc569128b6c5aa7976a15bb30925169868422bd22",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa10b5861f0d3023331f26c9376f0d252bc198b79",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcaafec899509e41e3f6d0528c84e7f9ddc3ab2bb",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa65bbdfe4d5da0f0cdcf9e7a86121c4f30cdc5a1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2580ff91440798455941fd3dcd04e9d34175aaeb",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x01fdad18ea838bc6646bb59df502903515761f3b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9dd1c157728c2ed3738fba69905add20fbbb1dce",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x103557d63f3b453fca3506feb3494d5eb1697d13",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd7c862cfc6c4d723cb75f3c7eaa44a8cb4c197f3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3f0484bff24910c0933cf2d1a6a50cf65155d435",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0000000000000000000000000000000000000000",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbc7e4ae38655b0972d364af5b331171baec3e39a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa562912e1328eea987e04c2650efb5703757850c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x433a802d5b2e80c4d37fa23db6e454b395162384",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd505e287c03c3241aa0ca73c0c7774e80e3dea1a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x187a4f1e93c2dabeb1fe5e6171078c6736cfcd11",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbd817cdc4d4958d60adf28ed61752bdb64c0d5ce",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4e6bce233fe426a1f239b9bfc148733eff21940a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x75c7fee2467d76634a7c7e8b25682a9cecbb2556",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4bd81ea38839166758d9908e787b457ad5833eac",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd3b282f20540cc32b3740b3613fb5dafd423d931",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x918f1371d63e94fb02e1683d0f104429a6b24b20",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3703949153a29d4e363647b71fdb5368f532ddde",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xaf72f4996f0b5448ae7c15c812bd3e47539986a1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xec431eefaecb7ed6c6fa446d7abcef92ce2925fd",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2755fab9255d7b57e0225f7c7ac78153da58c2cb",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc7e9306eb6a069fa605271253737d87812283bc8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xde6b6402c45c862553cdbdf39bc6f4cd583328d9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x533CE2d1Da63e9eecB4E603f9C16fd664a9aee86",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb09ba3d80bc9964cbf0e94f07d4281fcbc61339c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf6d5d7fd4d50ddb76f3c533cc35c6ac3968b7b09",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x632F168dECA52D196975A7cab3B2b0A392007D11",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe3239bd1c1325ba97193cb7ee315111db79196d5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x46c1722EF58f825B66bf27e331354595F0Ba47d9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x156bb00e3050cfbe0fe20082190cf6beba4366f3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0c85aad8938c07f2f53b544e0194323f6ff0a013",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5165d88eedf592915f1625f437511af41fda1d04",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x34e7ffc8aabf8b6ed91ce15f74b9ecf5f15aa7e9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdff0a84b2d966d4246019fa0deabcf50f2c7967e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x35370d5916c19badcc2bc2b5b19f13314a38d946",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbdb502f23514b432fb21cd758b9471148ada6c5b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4f5a202bb786e3fb1c9ba45ee29ea5e389aa1ac7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9ba1c048ff6ac7f021713e285f875cdf287dc384",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd20bc8831ebcfab0239f4ed935aff43515dc2cb4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5b88deb41305cc4685988fae15e1eb70cb1bac4f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xddfcc8b7d1ff095705b5f9b8d642f1442d81a2aa",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x813f1071d3be6ef852572753dec2fcab2131c044",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdd5152580dd528c01aa495c88e576d1e86b9050f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7933611e74daa80c354c4cbe84b079997d5880d6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe4ea6ba544f0b98e77db06dda6c3f4157fcd38d4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8c5141c897606e0028ebc54719c8a026d75d970c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe8da76849aaae0ba31410a1817411f3cdddaa14f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x98bed0fa9a551e8303d275548f477f235cdf5328",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x77889a51aa85d69ec576f2426facb7ecd610ba35",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x35747eb099d36cbecbc998204f403da3ae86c950",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x442ec9ecf2d7bacc727cab408a80336a25802e41",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x352e8239e7d62d308ceccec5dd6ce4fb35ebb689",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xade10b9dc4941f68b88bca2e2530c07c42c29d91",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9f3c7614d15e37f14a6e2f5d6d1d5b2ddee17b75",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x33fb314ae074f02953378751B713268F02938607",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa7dc7a5a800989cafc2778740b05b5ff773c2e2e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x55f90670419af9fb1d8ae3587c77505f64c03a8c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc6f6612b50f2dda9f0656415bb2b065ecfc7dd16",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x219b392fadfd6582aa8ba854adf641da75f30cbc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x46128DC641C7BdeF71C860Fd2199cf0BD04Ccc0a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xecae4ad0dc076f7c9439e47e8c5c4c4e3d3d14ca",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfffadf2555e1296fd72b5fd35adc9f7e17795ab9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x092589f551855616cec2ed264c91ece3d590513e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5a6f6e84b545239757373d2039e54f95a9d87275",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1920d6fd0eb77a3daa6445e9b9c6abb4b73313de",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x67f4d73746db8664c882e32714df3bab6c922407",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc8e545b23883540a844a6bffa122cab7b0d269b6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdc1b982f3a3c1c8175bdaa2831d2d481c8e00371",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x157aeed7bcef0a8ff072dfd07691dd9abf109c46",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x97e6434092ec56e5d7e4BF0933D460c306b1260c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x33aaa88e379b95bfd77ebf95d1a586aa37b3595c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3804348a2e5cd1ec1252653c041be182030bdbd8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2271d25ae5b8829c09e7b98ccd41ab752f24ebb5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5b9478f3976623b45ddf10bce4565fbf017b881f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1a8c4ae92aa3672bbeecc78c6d69097de281439c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbd9a76b5e4873174c0a8bb40560cfc338c3aa081",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9f8512d2657d192e59dbab41f8502864aaaafa4a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf9a4fd25f1cea65082f2fa1f8b50587ff1d28b1f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf277941ecb998a838becc730781cd74dc2ab41ca",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x71ab4e3a48d74a66e1cd4dc5ae74836b713d7378",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd549a09e1876801b2c997430236f5a209918c19f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8338889f6a4c248ac586967115e0dcb68045d5c7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe0d30caa430deb083b5b1ff99597fcedcd5b429d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x42f824218e36879bad1cbe83cc4cb17b424af0dc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb16f30edfb7d35960225b9a7697450467400171b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb5a9fedf4489db37b5bad53c9f8758a1b86c130b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdb7e7a332f50ea89ad12434b57a1e58fecbc2604",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe63ae1ea890f5ac284bf071e34c81522e301624e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xad5dc84593e0b99810efb45866469817b270dbd7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xD36e996711c54693eC520e03d42bc20Bf85e1100",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x198584E55791a3071874De755Beaf59A9f34F5c5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x039232c29129a8dd93f7c16edaabcbb8e372f7e4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3d11e399c5f77279965e1613da3a5cf1426be6d5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf0679249d04c4a408250cc6b9aa75038052f33f6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x12ae60bbc36c00d84b3bd1186cf5caf8c0e74942",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x819329fade98722121a02e2142f7a21e65962a2f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5e13cf1b90c9fe88c1d68fd731a41f023f9ff611",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x36fd2b04126e682a4f1ceb93f7a0ce678555eadc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6bf5df7cf65fa00e672e12207db786a1096b6aef",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf18eac2fdd5aa4f01c00415d8d4644b2a128fbe4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x66a08f1845b53a74c311020c525166a505a9768d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6A0B540A1b411045C0e57DaF258Ed44F2a50D961",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x27852181b10c6aa95440d9f53af70d123178a0d8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5C51a711D7eE52de86738f78ac85aB25790428Ca",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf0c2c39d1f94bcb47d48246f43f929aa0653bc93",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xca17ec7e9649960a20c03ff9c769435e3065fd81",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf5b739a3f3502c9091a63fa1c50a9ca3d3f5a385",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x48116f693a6d4b8b939960bbf5d43dee8d56b722",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x921e8d9a9443c0d1e5fb8d4ffdc13711189bf4a7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7668f5b70D6e005FCD7A0f13dB76d409a623c459",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfe164ef4c91e6fa66e2bac68bf2ab02c787d476c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x79dcf937272c49fe83002cf3e341c6edc153c796",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbc246e9443d2b6a6e2515ed7469aedd3fcfaf714",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x52ebdc4f393306054368366ce9f1f0cf26612875",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdd7293090b9bfa46c0ea23c074a3f853e9dd07a9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4bfbf845a67f9221d25a530c946a5113e52b58cc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1069e67468e9e6196680dbe53551c2c2eac00387",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x044f4cb7fc6cb4e4801b9b6927969d2d0258798d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x51b09974ab2564564143d6f88726ed30048b76cc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf6f529566c47fa31aabcf453aabcb6da806eea3e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc53b0e66d1613f2a250eb86003cce7b908507111",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x141c228d0027a94236bf1b3cd38aa9798606eb07",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6a11a406f291c9adaf9c5fe3c9eaa7e30e479769",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x26b82A6c1DD55B79033F0Fd24550d23ede007C8A",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0225951dfed9782325cfedd0eb7fe57a8e5ded41",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6e9a937e523007abe40dc1c07ccdd36b83ae5596",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcdd073e19fd2ca6cb0e2b91fdb13c36979a7891c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6a41509ddb061e122d4edb6578301ed68e805d62",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc6a57fa5af34f98486b4c92eb7bf1f6e262acf32",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7518d6971deec5f423788b0fb394699c41646b9b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1351a59d32abf447a5df182da926b2eee7766819",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd39cfb124005726f014e53df770f20e84ec34048",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfbc472dd9b7753c093ad4e2ca9387eac9879fc6c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe8955b365a6772ef9d7e3df9e26fa1afcf8101a7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb419cbc50f5a2f226fd91458bd3bbde9ddc5ddde",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd4810eb6ec6fcc57ac8d5fb5e55a1fd907d9f184",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd6b02950b991740faebb099bc0f7588c26b53bac",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf013df5c5ea8e1cb27e842c83ecc24b21fbb0a8c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x03c1edb42445be1e49ac4f506407ed9c0a4f6e29",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa910fcd316dfe9d78fa79e14d6b887119ac1f7fa",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd98579259d1d93484ba05b25a6cd5b00a9027af9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x19057e41a85e306907616c5dbdaf01b46e2f506f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc168e708d88414a7f3d1ee752c66821ada9488d4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9027d9a139d4681a51c0f629b8f0021a081403e7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x09db817b6faef95105c42de8580c2c587d862ad2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2aa816beb47624d233e9125dd5c443650f2e0aea",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc5f93997e111fc3dff6cb1f9ef84fd7040996de6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa094a60dda26892cbc48c60fd1770ad520184341",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb3228a96899c21fdaac3486938ce4410c9693503",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5f3d9bd0309d107b89dbf948b7f843abd8091781",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xea5b079c9c1102f55a745c8a9763e4563901779d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2c45441d0050df9537b35fbee5f85444935d9152",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5903a4b383cb5a73b2f0371b6d5784fa59c407df",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe8a15e9ec7614da848f38c337e36521d101def61",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x23A4Dc84dd6af18eA113049216A402122CC991F4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd76b6f6909df1b705f1edbc3ffdaf4a8c406d802",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x234398d5c9f9e3b7d0618ad365237da44ab39708",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x927f663d30489edf1bc2c6df226d532575b38824",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8fa9916ac1aed824749501040dc9cbd2c47b0152",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x61b6d87c31d0400c543a7dd250ca638ec22d3e44",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf334654c10f221418e530192924ce1e95c549673",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x10db7ac74ede2735f530bd04a7d70d0f27791275",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcb2dbb57ee281a0ce90b5cda9cf0f468df10f32f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x90140ac285d90035463973f139e1a96e6032d630",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6da114E04C05eE167314d8210E532073037DEc96",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb4533c8adec4b2773212ca62d4101fa385f6c630",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe715ea4deda9c4d5f96f03a8c2950b4bcde4dc44",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x93378a5cf6c6fb7f9477cfe745a291fc535ea252",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa8ada038184cf8366cadc4995c220ff531941122",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcab0c670db7130d8e35345f3223486de7b326c63",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa6eb7a59ca61cafe8b575de5c21973caf2f40c0d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe194956a977ef6ddb78eb163a136eb4139baa15a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8490e1a7ac62b69ab68bcecdabe5a5fb7f0e6380",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x75e67c878f5b7a93a0149486e39f1337c54e46fb",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x112a9f103222060c6fa5b8ec576cd559c94e43f0",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x165f1aa9d95199b48e4e840569de16896269f339",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6a0b540a1b411045c0e57daf258ed44f2a50d961",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcf665d9c85dd7a76205e739cf79a2ad394aa7f2c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x16541328851ed9d909271287729c98c84cd47714",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3df99b3d477dd9ff8b56f918c0def9893422cacb",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x47cb8b216e2d42919a6916eeaf75f13fac9c657c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7e0c67d5c0da10d3a789c195bb8da77c5b4d38b3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf6fe4c445a20588f740de688f34051959bec8d1d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3b519bc3ab83544dfd87687f51bcefe2ebb2de09",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xaed6f21e8b8cf5c0f8f459792628a1a68a829c41",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7eb8aeedd6849b541ecde5f046e629a7f68fc41e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd2c89079abdc094f610f0885ecfb3b1e0f062a30",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfa08f08e6a78e736e906cdeeb9f80f0db5a57ba2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4b6D8c2551E5704e3197eeE3455958D58aA80975",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd6687c989c7f3a56f1858e94e0aaec8f14954e35",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xae20464d7d3a3e0e5ca2ba6a435669cc8ab6e9f8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x84cdddeb66848e66ff69c2d90d119b164e091408",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfe30321d51d9bee7d6feedfd6b4dd9f9a95376d2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc0e1cb42ec3e2dc239f080a2c98659f58cbce9ed",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa382daee1902907305888ff39370ea6ac37a3c69",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x98d102399a17dbea87de69cb64cd54d9661097ec",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe848cfa7b979c6a6c835615bd8486351fec608d8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xF6C24bDA5BB6516762bAb69e9dAB52d93aE20738",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd79ca200fe0510263720426a49ab0243a6b7ee10",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x59ea46c62e3318d745f50fdff19d607a0a3f4e29",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x076c14eF2F4ab075fdC798BcD25AfE3Ac703320e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x61c546274777d70b8ecbcba3a751451c9ca0ce82",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd7f1366f939cda15ce6f53a7cf50a3e7fcdbffe3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc85c81fae1b990adf81d281d914bc48827daf618",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xac61f8be7611682975ab6da1d52af4e087f07ae7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9bfaf0628c39d31391dc6c234c6ea8b5ce3f07dc",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0efa36501402af964ebd7e8f6aa05e3e2bd67c0b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbf395f8ae703dfb33f0e1673cda2233a229f598d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe947400ef85a704c3ce594b8d6138060012b7417",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf1cbe5828cd36d880fdda718e5b56cacc959feb2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb135d40581404474beca15ba408e2e67a178b4cd",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5cc82972ee0c20e68bed101f2b3e67f932a60a63",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xacbd2d3558e7222442444af43e0f181fdf477feb",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x353433e04974800bcf1d804da2079664a4dd1b88",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x138ae206acc271385ba32e09ca89d73df2f0c616",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdba5c5793dfa22a47ed4e54eb511dcfc52de8bca",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x31211933cabb1ecb72a93ef71906576c5b63c78e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x586c7cffffcd968933550808bcbec2b9070b8285",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdd5548e636d3adb0eabe243c53b9389cc91c9b40",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb6fb5c73f23873e5f98e03f4015dea7ee25784b5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x88434674f61ad7b1da3d5ddc12770f65597bd933",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5e7843e8104825547d205fe660b75671062426e7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf3f3a7866da4d1e08ab884cf357997a46dc4bf95",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x221fC5009BF936B430569f8901Cfc4D372bE4AEf",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x74520ff5cdfbbde81dc16b44b361d9114389376d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x60ffc2719b5fe53529798c21cf118fda8327b4f5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x087adb750a63987184f92d6e6e21383c66258f8d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1f950f8650a557a441228a52eb7f312f0d656316",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0cd34e606f1e490353acdfadffd855d7358cf6b5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x395e5254b269b44147bef6555fc4b8ec05a2f46c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3f3ddfce7a1e9f1859810155a393f125566a1ff7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6c318d9558bc180a36b717c8dc03a8bfc4c42efe",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb275bd8ec0534d38a65899bab1973866fe17c689",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x985Eb2217b0A047016ab4a656aAB83A0c0e1ACB3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xfb76331ddfffe1b42c15d02dcca63a76f04b693d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9737410d8be778932b9e180c27938c65041b2dc4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x24fe25d8e9034de7d5d7fdf076706f62e8b554a8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6ac49203793884b96cd135952637787e723ce1f8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb6d891f8909841e7ff4027b876a112373030aed6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb0ffa84c2957644c43e4b520d0031626ac72134a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc82a9f6a7a5d38d14a1167116b1158018d6caa31",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website presents itself as a decentralized locked liquidity marketplace, a legitimate concept in DeFi. It features listings, mentions audits by AssureDefi, and includes standard legal links. There are no obvious scam indicators such as unrealistic promises or urgent demands for funds. Clicking the 'Connect' button is a standard action for dApps to interact with a wallet, which may reveal cryptocurrency addresses. The website presents itself as a decentralized liquidity marketplace, which is a common DeFi application. While the repeated '1 DROP = $0 USD' is suspicious and could indicate a lack of value or a placeholder, it's not a definitive scam indicator on its own. No direct phishing attempts or requests for private keys are visible. To further investigate and potentially find cryptocurrency addresses or interact with the platform, connecting a wallet is the next logical step. Clicking 'MetaMask' is a standard action to initiate a wallet connection. The website presents itself as a decentralized liquidity marketplace. No obvious scam indicators are visible on the initial page. Clicking 'Connect' is necessary to interact with the platform and potentially reveal cryptocurrency addresses."
+    },
+    {
+        "url": "https://elite-crown.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [
+            {
+                "address": "17VQ7rtzKC2M6zej77RFS5aH8PLtfP",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "14qk9NssgQLK3ChYnNGxp1k8BU1r7j2a",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website advertises extremely high daily returns (4.1% to 12%) which are characteristic of a Ponzi scheme or high-yield investment program (HYIP) scam. It claims to be a crypto investment system but provides no verifiable details about its trading strategies or team beyond generic descriptions. The listed address is a known virtual office, often used by fraudulent entities. No cryptocurrency addresses are visible on the landing page, but they are expected to be revealed after logging in or registering to fund an account, hence the action to click 'Login'. The page displays a generic 'Client Portal' login for an unknown entity (elite-crown.com), which is a common characteristic of investment scams. No cryptocurrency addresses are visible on this page. Clicking the 'Sign In' button is the next logical step to potentially access a dashboard where deposit addresses might be displayed, or to gather more information about the platform's nature. The page is a generic login portal for \"elite-crown.com\". No cryptocurrency addresses or scam indicators are visible on this page. To determine if this site is related to cryptocurrency or a potential scam, it is necessary to attempt to proceed past the login page. Clicking the \"Sign In\" button is the next logical step, although the image indicates that username and password fields would need to be filled first."
+    },
+    {
+        "url": "https://feed.gaiaaex.com",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a Cloudflare 'Connection timed out' error (Error code 522), indicating that the website content is not accessible. Therefore, no scam indicators, cryptocurrency addresses, or interactive elements like login/deposit buttons can be found or analyzed. It's classified as 'not scam' with low confidence because there's no content to evaluate."
+    },
+    {
+        "url": "https://fortivexgroup.org",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website promises extremely high daily returns (e.g., 2-10% daily) on investment plans, which is a classic characteristic of a Ponzi scheme or High-Yield Investment Program (HYIP) scam. It claims to be an investment platform dealing with cryptocurrencies and has a fabricated long operational history. No cryptocurrency addresses are visible on the current page, but they are likely to be revealed after logging in or attempting to make a deposit. The page displays a generic login interface for 'FORTIVEX GROUP' without providing clear information about its services or legitimacy. This is a common characteristic of investment scams that aim to onboard users before requesting deposits. No cryptocurrency addresses are visible on this initial page. To investigate further and potentially uncover scam indicators or cryptocurrency addresses, it is necessary to proceed past the login screen. Clicking 'SIGN IN' is the next logical step to explore the platform's internal functionalities. The page is a login portal for 'FORTIVEX GROUP'. No cryptocurrency addresses are visible on this page. To determine if this platform deals with cryptocurrency and to potentially find associated addresses, further interaction is required. Clicking 'Sign Up' is chosen to explore the platform's registration process and services, which might reveal cryptocurrency deposit information or investment opportunities. Without further information, it cannot be classified as a scam at this stage."
+    },
+    {
+        "url": "https://fxo2o.me",
+        "classification": "scam",
+        "confidence": 1.0,
+        "extracted_addresses": [
+            {
+                "address": "TmBgjNC9kK6RAUHx7zGt3Z8vb5IeYnBSsa",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "TSmLOlqKGlqbXBra7gwtDS6M7w2czz7re9",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "1c2Vt5G1kdaznN3KmqDho7vAouSix",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "35xtHw18DD79X7vtvX5MfG4u37yNDt8",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "Tl6wgP7gUMJCEwMgsM6ScE7O33DfUKOB4V",
+                "chain": "TRC-20"
+            }
+        ],
+        "reasoning": "The page is a Cloudflare warning indicating 'Suspected Phishing'. This directly classifies it as a scam. No cryptocurrency addresses are visible on this warning page, and no action is required as proceeding would lead to a potentially malicious site."
+    },
+    {
+        "url": "https://gete84.com",
+        "classification": "not scam",
+        "confidence": 0.5,
+        "extracted_addresses": [
+            {
+                "address": "TMCuwaivajDqvwewFnKgp2IEntvYskKpkA",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "1ef2vVbFTj8nMait3PNAQHavq4",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "3BmB8gj2RvZKRfZosnPksjZn4CjfC",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website displays a message stating 'The website has been stopped' and 'Sorry, This site has been stopped by the administrator, Please contact the administrator for details.'. There are no interactive elements, cryptocurrency addresses, or content to suggest it is currently operating as a scam or a legitimate service. It is simply inactive."
+    },
+    {
+        "url": "https://goldmachine.international",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://gxecgcx.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The domain 'gxecgcx.com' is a clear impersonation of the legitimate GCEX Group. The announcement directs users to 'online customer service' for fund injection, a common scam tactic to control deposits. The copyright year '2025' is in the future. Clicking 'Register' is the next step to investigate for deposit addresses."
+    },
+    {
+        "url": "https://h5.bit-main.cc",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a '404 Not Found' error, indicating the requested content is unavailable. There are no scam indicators or cryptocurrency addresses visible on this page, nor are there any interactive elements like login or deposit buttons to click."
+    },
+    {
+        "url": "https://h5.bitmain-ex.co",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a '404 Not Found' error, indicating the requested URL does not exist. There are no interactive elements or cryptocurrency addresses visible on this page. Therefore, no action can be taken to find addresses. The nature of the website itself cannot be determined from this error page."
+    },
+    {
+        "url": "https://h5.bitxex.quest",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website uses a suspicious '.quest' domain, which is frequently associated with scam platforms. A prominent announcement about closing C2C business in 2025 is highly unusual for a legitimate, active exchange and could be a tactic to create a false sense of urgency or explain away future issues. While no addresses are immediately visible, clicking the '\u5145\u5e63' (Deposit) button is the most logical next step to attempt to reveal cryptocurrency deposit addresses, which is a common feature of such platforms. This site exhibits characteristics of a potential fake exchange or investment scam."
+    },
+    {
+        "url": "https://h5.mitrade-store.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "0xA7Cd752cF5f59324905CFc62f5C26a00518238B1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "35iqT1m5vZSzPckF2gU2hcXNNrDDsXcdnT",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "TKSNSXQMRiNzfgwCqxTwNW7QauGe3kTpXs",
+                "chain": "TRC-20"
+            }
+        ],
+        "reasoning": "The domain 'mitrade-store.com' is highly suspicious and likely a phishing or scam attempt, mimicking the legitimate Mitrade platform (which uses 'mitrade.com'). The page content is blank, which prevents further analysis but does not negate the domain's suspicious nature."
+    },
+    {
+        "url": "https://heysylas.top",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1dsrVwQmvbhkTEzvBWHmZr415K",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The page content is a news article about a mobile game, 'Magic Chess: Go Go', providing guides on how to download, play, and top up the game. It does not present itself as a cryptocurrency exchange, investment platform, or solicit crypto funds. No cryptocurrency addresses were found on the page."
+    },
+    {
+        "url": "https://ifcrepe.top",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a message indicating it is a backend management framework (RuoYi v3.8.5) and instructs users to visit the front-end address. There are no scam indicators, cryptocurrency addresses, or interactive elements that would reveal addresses on this page."
+    },
+    {
+        "url": "https://iffepi.com",
+        "classification": "not scam",
+        "confidence": 0.5,
+        "extracted_addresses": [
+            {
+                "address": "0xf30d150250f5301ef34a0e4a64aafa93f242d87a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9e10469cd2cd93836e19484a9ca1ef5addc43e0f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xFDFfB411C4A70AA7C95D5C981a6Fb4Da867e1111",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb0bb080667e52bd84884d2c90322706c4aa9067b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3e2d6fa11fd5a8a360c121a1e9bb3bdf72d8b502",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The page presents itself as a cryptocurrency exchange with options to login or register. No cryptocurrency addresses are visible on this initial page. To determine if it's a scam and to find potential deposit addresses, further interaction is required. Clicking 'Login' is the next logical step to explore the platform's interface."
+    },
+    {
+        "url": "https://infinitecloudmarket.org",
+        "classification": "scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website displays multiple scam indicators: conflicting branding (Smortfx, Infinite Cloud Market, Primefx Capitals), unrealistic investment returns (100% weekly ROI), fabricated testimonials, and payout records dated in the future (2026). No cryptocurrency addresses are visible on the landing page. Clicking 'REGISTER' is a common next step to access potential deposit pages where addresses might be revealed."
+    },
+    {
+        "url": "https://infinitifutures.ae",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a '403 Forbidden' error, indicating that access to the resource is denied. No content, scam indicators, or cryptocurrency addresses are visible. There are no interactive elements like login or deposit buttons to click."
+    },
+    {
+        "url": "https://interactivemining-brokers.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [
+            {
+                "address": "1jGzsPu2sd5PwW3M8pFiDFcHhfm",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "T4HZKChKbDTwYY6stmtnmyhHeOWP6ca3PB",
+                "chain": "TRC-20"
+            }
+        ],
+        "reasoning": "The website exhibits multiple characteristics of an investment scam, including promises of 'Guranteed Return on Investment' (a common scam tactic), a highly diversified and vague business model spanning unrelated sectors (real estate, crypto, agriculture, cannabis), and an inconsistent registration address combining UK and US locations. The copyright date of '2025' is also a significant red flag, indicating a poorly constructed or templated site. No cryptocurrency addresses are visible on the current page, so clicking 'Get Started' is the next logical step to potentially reveal deposit instructions and associated addresses. The website presents as an investment platform with generic claims about trading on financial markets and cryptocurrency exchanges. Key scam indicators include a future copyright year (2025), a mismatch between the site's name and the copyright holder's name (\"Svntrust\"), and unprofessional grammar (\"Sun-monday\"). No cryptocurrency addresses are visible on this login page, so clicking 'Register an account?' is the next logical step to potentially find deposit information. The website 'interactivemining-brokers.com' presents itself as an investment platform, a common characteristic of cryptocurrency scams. Red flags include the generic investment claims, the domain name, and a copyright date in the future (2025) attributed to a different entity ('Svntrust'). No cryptocurrency addresses are visible on this account opening form. Clicking 'Login to your account' is the next logical step to see if deposit addresses are revealed after authentication."
+    },
+    {
+        "url": "https://internationalbronzetrading.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The page is a standard Shopify 'store unavailable' message. It does not contain any content related to cryptocurrency, investments, or potential scams. No crypto addresses are visible, and no actions on this page would lead to their discovery."
+    },
+    {
+        "url": "https://kadven.io",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a Cloudflare 'Connection timed out' error (Error code 522). No actual content from the website is visible, making it impossible to assess for scam characteristics or find cryptocurrency addresses. Therefore, no action is required."
+    },
+    {
+        "url": "https://keystonevaults.com",
+        "classification": "scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website promises extremely high and unrealistic daily returns (e.g., 20% daily ROI, 10% daily for 3 days), which is a hallmark of a Ponzi scheme or investment scam. No cryptocurrency addresses are visible on the current page, so an action is required to potentially find them. Clicking 'LOGIN' is a common next step to access a user dashboard where deposit information might be displayed. The page presents a generic login form for a Bitcoin trading platform. While no direct scam indicators like suspicious addresses are visible on this page, the lack of detailed information about the platform, combined with the common pattern of fake crypto exchanges starting with such login pages, raises suspicion. An action is required to proceed past the login page to potentially uncover more information, such as deposit addresses or further scam characteristics. Clicking the 'LOGIN' button is the next logical step to investigate further. The page is a login/registration portal for a cryptocurrency trading platform. No cryptocurrency addresses are visible on this page. To determine if it is a scam and to find potential cryptocurrency addresses, further interaction (registration or login) is required. Clicking 'Register' is chosen as a common next step to access areas where deposit addresses might be displayed. Without more information, a definitive scam classification cannot be made."
+    },
+    {
+        "url": "https://koserwry.xyz",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website offers IPTV streaming services and explicitly states in its FAQ that it accepts cryptocurrency (Bitcoin, Ethereum, etc.) as a payment method. No cryptocurrency addresses are visible on the current page. Clicking 'Prices & Plans' is a logical next step to navigate to a page where payment options, including potential cryptocurrency addresses, might be displayed. The site itself does not appear to be a crypto scam, but rather a service that accepts crypto."
+    },
+    {
+        "url": "https://learingcenter.fun",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website clearly identifies itself as a 'memecoin community' and explicitly states that it is 'not financial advice' and that memecoins are 'highly volatile and speculative'. It provides a contract address for a Solana token and directs users to external, legitimate DEXes for transactions. It does not exhibit typical scam characteristics such as phishing for credentials, soliciting direct deposits to a controlled platform, or promising unrealistic returns. All relevant information, including the contract address, is readily available on the page without requiring further interaction."
+    },
+    {
+        "url": "https://luminex3.net",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://m.bit-ligne.sbs",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1f9db437dad899fcacd3d1a6e5c937d4",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1fb7966327afec1bcbca8faae3615244",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1b9252a3342175c365c126923a75216c",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website m.bit-ligne.sbs has a suspicious domain name and immediately presents a 'Connect Wallet' pop-up. This pop-up instructs users to download a wallet and access the site via a wallet browser, which is a common tactic used by phishing scams to gain unauthorized access to users' cryptocurrency funds. No cryptocurrency addresses are directly visible on the page. Clicking 'MetaMask' is chosen to simulate interaction with the wallet connection prompt, which is a critical step in such scams."
+    },
+    {
+        "url": "https://m.coinshouseltd.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "The webpage displays a Cloudflare 'Connection timed out' error (Error code 522), indicating that the website content is not accessible. Therefore, no scam indicators or cryptocurrency addresses could be found, and no actions are possible on this error page."
+    },
+    {
+        "url": "https://m.kisngaf.shop",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1eed887668d9e2ebc2c654d5f4443448",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The domain 'kisngaf.shop' is highly suspicious and does not resemble a legitimate financial institution or cryptocurrency exchange. The website mimics a crypto trading platform, displaying various crypto pairs and prices, which is a common tactic used by investment scams to lure users. No cryptocurrency addresses are immediately visible on the page. Clicking 'Mine' is a common action to access a user's personal account or wallet section, where deposit addresses are typically displayed. The domain m.kisngaf.shop is highly suspicious and indicative of a scam, often used for fake cryptocurrency exchanges or investment platforms. The page displays a generic asset management interface with 'My assets(USDT) 0' and options like 'Recharge' and 'Withdraw', which are common features of sites designed to solicit deposits. Clicking 'Go to login' is necessary to proceed and potentially uncover deposit addresses or further scam mechanisms. The domain 'kisngaf.shop' is highly suspicious and often associated with scam websites. The page prompts for login, a common tactic for phishing or fake exchanges. No cryptocurrency addresses are visible on this initial page. Clicking 'Wallet login' is chosen to attempt to access a potential deposit page where addresses might be displayed."
+    },
+    {
+        "url": "https://m.lon28.click",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website, hosted on a suspicious '.click' domain, promotes 'Gold AI Smart Trading' and promises 'passive income' daily, which are common tactics used by cryptocurrency investment scams to lure users with unrealistic returns. No cryptocurrency addresses are visible on the current page, but clicking the 'Deposit' button is necessary to potentially reveal them for further analysis."
+    },
+    {
+        "url": "https://market3.bfxtrade.top",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "TDkAnyGrMH7xfGKdpwoVCzMroCCnbk9um3",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "0x719DeA9eA99AdCb55b7f03f2FC5CE9858cB13249",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8d6DeE13685299c487f461FaA83d4d96531c1b6F",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "3CD74Q6WNcKik1Ztjsw6wpSRtxhq9ASD99",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "TXebJ49EkxBE7qDZzJQMxDtsHWiR2CJxqr",
+                "chain": "TRC-20"
+            }
+        ],
+        "reasoning": "The domain market3.bfxtrade.top is highly suspicious, often indicative of a temporary or fraudulent site. The presence of an irrelevant 'NTFS' tab in the navigation further suggests this is a poorly constructed fake exchange or investment scam. To find potential deposit addresses, clicking the 'Recharge' button is the next logical step. The website presents itself as a cryptocurrency exchange/investment platform, which is a common setup for investment scams. The domain 'bfxtrade.top' is generic and not associated with any reputable exchange, which is a significant red flag. To find potential deposit addresses and further investigate the scam, clicking the 'Recharge' button is the next logical step. The website `market3.bfxtrade.top` uses a generic domain name (.top TLD) which is frequently associated with cryptocurrency investment scams. The phrasing \"Quickly arrive\" for withdrawals is also a common characteristic of such fraudulent platforms. No cryptocurrency addresses are visible on the current page, so clicking 'Recharge' is necessary to attempt to find deposit addresses."
+    },
+    {
+        "url": "https://maxnero-experts.org",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website claims to offer extremely high daily returns (15-30% ROI daily), which is a hallmark of a High-Yield Investment Program (HYIP) or Ponzi scheme, both of which are scams. Legitimate investments do not guarantee such unrealistic and consistent daily profits. Additionally, the support email domain (bluecrownltd.com) does not match the website's domain (maxnero-experts.org), which is a red flag. No cryptocurrency addresses are visible on the current page, but the site mentions 'deposit via our available crypto gateways' after selecting an investment plan. Clicking 'Register' is the next logical step to potentially reveal deposit addresses."
+    },
+    {
+        "url": "https://metacapitalinvestment.pro",
+        "classification": "scam",
+        "confidence": 0.98,
+        "extracted_addresses": [],
+        "reasoning": "The website exhibits multiple red flags typical of a crypto investment scam, including promises of extremely high, fixed daily returns (e.g., 8% after 1 day, 45% after 4 days), which is a hallmark of a Ponzi scheme. It also uses generic claims of being a 'Registered Company' and 'Professional Team' without verifiable details, and promotes 'SPECIAL PROMO SPONSORED BY BLOCKCHAIN' with unrealistic returns. No cryptocurrency addresses are immediately visible on the landing page; therefore, clicking 'Login' is necessary to access the user dashboard where deposit options and potential addresses might be displayed. The website presents itself as an investment platform, which is a common facade for crypto scams. No cryptocurrency addresses are visible on the login page. To investigate further and potentially find addresses, clicking the 'Sign up here' link is the next logical step. The website presents itself as an investment platform, a common characteristic of cryptocurrency scams. No addresses are visible on this sign-up page. Clicking 'Sign in here' is a logical next step to explore the site further and potentially find deposit addresses."
+    },
+    {
+        "url": "https://minegridtech.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website exhibits multiple characteristics of a high-yield investment program (HYIP) scam. It promises extremely high and unrealistic daily returns (2.1% to 11.7%), claims \"risk-free trading,\" and uses fake endorsements from prominent figures like Elon Musk and Mark Cuban, which are common tactics in Ponzi schemes. The copyright date of 2026 is also suspicious. No cryptocurrency addresses are visible on the initial page, so clicking \"Register\" is necessary to proceed and potentially find deposit addresses."
+    },
+    {
+        "url": "https://mofasbit.net",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website displays several red flags consistent with investment scams, including vague promises of high returns, unverifiable statistics, and overly enthusiastic testimonials, some of which mention an 'Account Manager' (a common feature in managed investment scams). No cryptocurrency addresses are visible on the landing page; clicking 'Get started' is the next logical step to potentially reveal deposit information. The page is a registration form for 'Mofasbit', which appears to be a cryptocurrency platform. No cryptocurrency addresses are visible on this page. To determine if it's a scam and to find potential addresses, it's necessary to proceed past this initial page. Clicking the 'Login' button is the next logical step to access the platform's features where deposit/withdrawal addresses might be displayed. The page is a login interface for 'Mofasbit'. No cryptocurrency addresses are visible on this page. To potentially find addresses or further assess the site, it is necessary to attempt to proceed past the login page. Clicking the 'Login' button is the next logical step to access the platform's internal pages."
+    },
+    {
+        "url": "https://moneyproo.com",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1aea59c2ebbf37a56539f7c8dbfcd6b8",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website presents itself as a financial consulting and tools provider, offering services like financial planning, stock market consulting, and cryptocurrency consulting. It does not display any cryptocurrency addresses, nor does it prompt for login or deposit actions that would typically reveal such addresses. The content focuses on educational resources and advice, which does not indicate a scam."
+    },
+    {
+        "url": "https://nexcofxs.org",
+        "classification": "scam",
+        "confidence": 1.0,
+        "extracted_addresses": [
+            {
+                "address": "3cBQxeebxLFLShn64vt5G6RrTmqaY7UNWS",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "This website exhibits classic characteristics of a High-Yield Investment Program (HYIP) scam, which are typically Ponzi schemes. It promises extremely high daily returns (2.5% to 6.5% daily for 3 days), which are unsustainable and unrealistic for legitimate investments. The site also offers a 10% referral commission, a common feature in such schemes to attract new investors. No cryptocurrency addresses are visible on the landing page, so clicking 'Login' is the next step to potentially find deposit addresses within a user dashboard."
+    },
+    {
+        "url": "https://niaexchangegroup.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website presents itself as a cryptocurrency exchange but contains placeholder text in its 'Announcements' section, which is highly unprofessional and a common characteristic of scam websites that lack genuine content. To find potential deposit addresses, clicking the 'Go to Deposit' button is the most direct action. The website purports to be a cryptocurrency exchange but features placeholder Latin text in its 'Announcements' section, along with future dates. This is a significant red flag, indicating a lack of legitimate content and suggesting it is a scam or an untrustworthy platform. No cryptocurrency addresses are visible on the landing page. To attempt to find deposit addresses, the '\u524d\u5f80\u5b58\u6b3e' (Go to Deposit) button should be clicked. The website presents itself as a cryptocurrency exchange, but the 'Announcements' section contains generic placeholder text with future dates, which is a strong indicator of a scam or an unprofessional site often used by scammers. No cryptocurrency addresses are visible on the landing page, so clicking 'Go to Deposit' is necessary to attempt to find them."
+    },
+    {
+        "url": "https://niupi.3455n.top",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website appears to be a legitimate online store for antique coins and banknotes, with contact information and a license number. There are no indications of cryptocurrency, investment schemes, or other common scam characteristics. No crypto addresses are visible, and no actions are needed to reveal them."
+    },
+    {
+        "url": "https://novaex.io",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://novarenthionex.com",
+        "classification": "not scam",
+        "confidence": 0.4,
+        "extracted_addresses": [],
+        "reasoning": "The provided image displays a standard cryptocurrency exchange interface with options for 'Recharge' and 'Withdrawal', and market data. There are no immediate red flags or visible cryptocurrency addresses on this page. To determine if it's a scam and to find potential cryptocurrency addresses, further interaction is required. Clicking the 'Recharge' button is the logical next step to access deposit information."
+    },
+    {
+        "url": "https://onestopchoices.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a standard e-commerce platform, selling various consumer goods. There are no mentions of cryptocurrency, blockchain, investments, or any elements typically associated with crypto scams. No cryptocurrency addresses are visible on the page, and there is no indication that further interaction (like logging in) would reveal any."
+    },
+    {
+        "url": "https://openai9315.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The domain openai9315.com is highly suspicious, attempting to leverage 'OpenAI' branding with a generic 'AI platform' theme, which is common for investment scams. No crypto addresses are visible on this login page. An action is required to attempt to log in to potentially reveal deposit addresses or further scam mechanisms. Clicking the 'Login' button is the next logical step. The domain openai9315.com is highly suspicious, attempting to leverage the 'OpenAI' brand, which is a common tactic for phishing and scam websites. The page presents a generic login form, a typical first step for credential phishing or accessing a fake investment/exchange platform. While no crypto addresses are visible on this initial page, it is highly probable that such addresses would be revealed after a successful login, as is common with fake investment or exchange scams. The action is to click the login button to attempt to proceed and potentially reveal more information. The domain openai9315.com is highly suspicious, attempting to impersonate OpenAI, which is a common tactic for phishing and investment scams. While no crypto addresses are immediately visible, logging in might lead to a dashboard or deposit page where cryptocurrency addresses are requested or displayed. An action is required to investigate further."
+    },
+    {
+        "url": "https://optiontradingsignalsfx.live",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "This website exhibits multiple characteristics of an investment scam: it promises unrealistic guaranteed profits and high success rates (e.g., 'min. Expected profit: $2,500' for a $600 deposit, '95% Success Rate'), claims to be 'Globally Licensed & Regulated' without providing verifiable details, and features fake deposit/withdrawal tables with identical entries and mixed payment methods. Furthermore, it explicitly states 'Pay using bitcoin only' for its 'FOREX SIGNAL SUBSCRIPTION', which is a common tactic for scams to ensure irreversible payments. No cryptocurrency addresses are visible on the initial page. Clicking 'Open Account' is necessary to proceed to a potential deposit page where cryptocurrency addresses might be revealed. The website exhibits multiple characteristics of an investment scam, including guaranteed/expected profits for different account tiers, unrealistic claims of success rates (e.g., 95% for signals), inconsistent branding (using multiple company names), and likely fabricated deposit/withdrawal tables. The 'FOREX SIGNAL SUBSCRIPTION' explicitly states 'Pay using bitcoin only', which is a common tactic for scammers to receive irreversible payments. No cryptocurrency addresses are visible on the initial page, so clicking 'Login Account' is chosen to attempt to reveal deposit addresses, which are typically shown after logging in or initiating a deposit."
+    },
+    {
+        "url": "https://orotoken.io",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://pinshici.cc",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://primesuccessfinance.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://prohavensequity.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://proymsi.xyz",
+        "classification": "not scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The website offers IPTV streaming services and lists cryptocurrency (Bitcoin, Ethereum, etc.) as an accepted payment method in its FAQ section. No cryptocurrency addresses are visible on the current page. To potentially find these addresses, an action is required to navigate to the payment or plan selection page. Clicking the 'Prices & Plans' button is the most logical next step to explore subscription options and payment details. The site does not display typical characteristics of a crypto scam."
+    },
+    {
+        "url": "https://pugmeme.io",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "0x4200000000000000000000000000000000000006",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x670004a5EAd7fCa76Ea4441fa905c668aDC29e23",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x722E8BdD2ce80A4422E880164f2079488e115365",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xf0fb4756fad7549da79f8daf9638d2d9411ce357",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0c5E2D1C98cd265C751e02F8F3293bC5764F9111",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xAa14D5A9148d34501c48Be9514Bfef0450fdCE76",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0DA2a82ED2c387d1751ccbAf999A80b65bdb269E",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2483a716A4A5476da5E657be13A37Cf62b608AB6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA55F26319462355474A9F2c8790860776a329aA4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5300000000000000000000000000000000000004",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x160361ce13ec33c993b5cca8f62b6864943eb083",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x61b24C2755371E0AAfFd5f7fc75a3bc074f9a56E",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb60102CaF5f56d085D47bA8C77A030B8695459ab",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xEA04fe89Fe664f1Cd5B72374cF7dbDD70629D032",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3936D20a39eD4b0d44EaBfC91757B182f14A38d5",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x9261b5A8A68b6d2b05d8514Fb875dBb364a9D6C2",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xBD4372e44c5eE654dd838304006E1f0f69983154",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xFC31460db1331BC355f81Ff87c9Ee55bcbcF60F1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb58a9d5920af6ac1a9522b0b10f55df16686d1b6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x517E9e5d46C1EA8aB6f78677d6114Ef47F71f6c4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x444419F74c6e602e88EfADc61318A01caF4A9b54",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website promotes a meme coin with several red flags. The most significant is the claim \"ORIGINADO NA PLATAFORMA PUMPFUN 31/12/2025\", indicating a future origin date, which is highly suspicious and misleading. Additionally, the official support email is a generic Gmail address (PUGMEMEOFICIAL@GMAIL.COM), which is unprofessional for a legitimate crypto project. While some addresses are visible, clicking 'CARTEIRA PUG' is a logical next step to explore potential wallet connection prompts or further deposit addresses, as per the instructions. The website appears to be a legitimate (though speculative) meme coin project, not a direct scam. It provides token and burn addresses, links to known crypto platforms (Raydium, Jupiter, OKX, Phantom), and details about its tokenomics and NFTs. It does not exhibit typical phishing or fake investment scam characteristics. Clicking 'CARTEIRA PUG' is a logical next step to explore potential wallet interactions or further address displays, though it's unlikely to reveal new project addresses."
+    },
+    {
+        "url": "https://quantaraxxx.org",
+        "classification": "scam",
+        "confidence": 0.65,
+        "extracted_addresses": [
+            {
+                "address": "132d27a21d55436aa811a78da5d753bd",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The platform presents itself as a generic 'Smart Trading Platform' for cryptocurrency, which is a common theme in investment scams. No cryptocurrency addresses are visible on the initial page. To investigate further for potential deposit addresses, clicking the 'Log in' button is the logical next step."
+    },
+    {
+        "url": "https://r7t2mj.xyz",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website uses a highly suspicious domain (r7t2mj.xyz) while impersonating 'LMAX Group', a legitimate financial institution. This is a strong indicator of a phishing or investment scam. No cryptocurrency addresses are visible on the current page, so clicking the 'Me' button is a logical next step to explore account-related sections where deposit/withdrawal addresses might be found."
+    },
+    {
+        "url": "https://renega.nl",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website appears to be a standard e-commerce store selling various products, with no mention of cryptocurrency, investments, or unusually high returns. It offers payment via Klarna, a legitimate payment service. There are no visible cryptocurrency addresses on the page, and clicking typical e-commerce links like 'Login' or 'Shop Now' is not expected to reveal any."
+    },
+    {
+        "url": "https://rugroyale.xyz",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website explicitly states 'This is a game. Not financial advice. Tokens WILL rug. Have fun!'. This indicates it's a game simulating rug pulls, not a platform designed to perform a rug pull scam. No cryptocurrency addresses are visible on the current page. Clicking 'SIGN UP TO PLAY' is necessary to proceed and potentially reveal wallet connection or deposit addresses for the game. The website name 'RUG ROYALE' is a significant red flag, directly referencing 'rug pull' scams common in the cryptocurrency space. While it presents itself as a competition, the name itself, combined with asking for a Solana wallet address during sign-up and promising 'real SOL payouts', suggests a high likelihood of a scam. No cryptocurrency addresses are visible on the current page, so an action is required to proceed and potentially uncover deposit addresses or further scam mechanics. The website name 'Rug Royale' is highly suspicious, directly referencing a common cryptocurrency scam (rug pull). The site asks for a Solana wallet address, username, and password to 'Sign up to compete for real prizes' and promises 'real SOL payouts'. This setup is typical of phishing or investment scams designed to collect user credentials or solicit deposits. No addresses are visible on the current page. Clicking 'LOGIN' is chosen to explore further pages for potential deposit addresses or other scam indicators."
+    },
+    {
+        "url": "https://samarpanbusiness.com",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website describes a Multi-Level Marketing (MLM) scheme, promising 'daily income' and 'incentives' through a 'compensation plan' and a 'referral link' where users earn commissions from multiple levels of recruits. While it exhibits characteristics of a potential pyramid scheme, it does not mention or involve cryptocurrency in its business model or payment methods. Therefore, it is not classified as a cryptocurrency scam, and no crypto addresses are found. Further action is not required as it's unlikely to reveal crypto addresses."
+    },
+    {
+        "url": "https://sesiocreditunion.com",
+        "classification": "scam",
+        "confidence": 0.98,
+        "extracted_addresses": [],
+        "reasoning": "The website exhibits multiple characteristics of an investment scam. It claims '10K+ Years of Experience in the Industry,' which is an absurd and impossible claim. It promises '80-90% high probability forex trades' and offers investment plans with short durations (e.g., 24 hours, 72 hours) implying guaranteed high returns, typical of High-Yield Investment Programs (HYIPs) or Ponzi schemes. The testimonials feature unrealistic profit figures and mention contacting via WhatsApp, common tactics used by scammers. The use of 'Credit Union' in the name for a crypto/forex trading platform is also misleading. No cryptocurrency addresses are visible on the initial page, so clicking the 'Login' button is necessary to potentially access a dashboard where deposit addresses might be displayed."
+    },
+    {
+        "url": "https://shopelio.nl",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://smartgrowsavings.com",
+        "classification": "scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website promises extremely high, unrealistic returns (40-70% monthly ROI) and features a multi-level referral program, both common characteristics of a Ponzi scheme or HYIP scam. The business model is vague, using buzzwords like 'digital infrastructure leasing' and 'DeFi strategies' without concrete details. No cryptocurrency addresses are visible on the current page, so clicking 'JOIN NOW' is necessary to proceed to a potential deposit page where addresses might be revealed."
+    },
+    {
+        "url": "https://teslaprimeholding.com",
+        "classification": "scam",
+        "confidence": 0.98,
+        "extracted_addresses": [],
+        "reasoning": "The website 'teslaprimeholding.com' uses the Tesla brand and logo without authorization, a common tactic for impersonation scams. It promises extremely high, unrealistic returns (e.g., 7-20% weekly) which is a hallmark of Ponzi schemes. The claim of being regulated by the US SEC for such offerings is highly suspicious and likely false. While no cryptocurrency addresses are directly visible, the site mentions 'Crypto' trading and 'USDT (TRC20)', 'Bitcoin', and 'Ethereum' as payment methods in a fabricated transaction list. Clicking 'Login' is the most probable action to reveal deposit addresses within a user dashboard. The domain 'teslaprimeholding.com' is not an official Tesla website and uses a suspicious name ('Tesla Prime Holding') along with a future copyright year (2025), which are common indicators of a phishing or fake investment scam. No cryptocurrency addresses are visible on this login page, so clicking 'Sign In' is necessary to proceed and potentially uncover further scam elements or deposit instructions. The domain 'teslaprimeholding.com' is highly suspicious, leveraging the Tesla brand for a 'holding' company, which is a common tactic for investment scams or phishing. No cryptocurrency addresses are visible on this login page. An action is required to attempt to proceed past the login form, as the page currently shows an error requiring fields to be filled. Filling the username field is the logical first step to try and access further content where addresses or investment opportunities might be revealed."
+    },
+    {
+        "url": "https://test.fxtrading.lol",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "Tqpec6TxMAAAAidFJOUwBwsDqAEOAg779g",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "3KuADQsh5YBvkswAGJAsDw9m1w",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website displays inconsistent branding, referring to itself as 'Fxtrading' while also mentioning 'Vexus' and 'Velod' in the news and security sections. This is a strong indicator of a scam. The stated statistics like '29 Million Global Investors' and '$20 Billion 24H Trading Volume' are highly inflated for an unknown platform. Clicking 'Login' is the next step to potentially reveal deposit addresses."
+    },
+    {
+        "url": "https://tiktoksig-f4dbexefdvh4faev.a01.azurefd.net",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a generic e-commerce platform selling various goods. There are no mentions of cryptocurrency, crypto investments, exchanges, or any elements typically associated with crypto scams. While the URL is suspicious for a legitimate e-commerce site, suggesting it might be a general scam (e.g., phishing for credit card details or selling fake goods), it does not fit the criteria of a *crypto* scam. No crypto addresses are visible, and no action is likely to reveal them."
+    },
+    {
+        "url": "https://timeecoin.com/wap",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1DybLR1C31Sp7rzjUCXkzvpQoB4jZ4Gu2Q",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "134UanomjXWpHULSdLZd7oqMpx3xXN",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1hni7baG8o3vNdmHJe8zMxRAAAh",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "3zzeCQRNcBUB9xGQAREADiSgWAcwdMBYE",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1y7a81Kfe38CDhUHoBXh1atTES1",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "3zWMeaCSRjPFQoystRm3pfhiXU",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1bfm1wq9jebLi7Htmp6oLX7PPpWV",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1YUpyoNwtdHvUa8sPTftXeK1T8v63PAqK",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1muapKv6rTdJUnstS3h6bpKk1otTqNK8Sw2",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1bVrqNveJmJxu7g1yTpSic86Uo",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website's main banner advertises an \"exchange script\" with a grammatical error (\"to Built a Robust Platform\"), which is highly suspicious for a supposed cryptocurrency exchange. This suggests it might be a template, a fake exchange, or a platform selling scam tools. To find cryptocurrency addresses, clicking the \"Deposit\" button is necessary."
+    },
+    {
+        "url": "https://tomandjerrytoken.xyz",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "This website promotes a 'Tom & Jerry Coin' meme coin. It uses copyrighted characters without official affiliation, which is a common tactic for speculative and often fraudulent meme coin projects. The language ('race to the moon', 'crypto dominance') and generic roadmap are typical of high-risk, pump-and-dump schemes. While not a fake exchange or phishing site, it presents as a highly speculative and potentially deceptive investment opportunity, classifying it as a scam due to the high likelihood of a rug pull or significant loss for investors. No crypto addresses are visible, and no interactive elements like login/deposit buttons are present."
+    },
+    {
+        "url": "https://trino.gold",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://twatfx.online",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://twfxcc.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "TRvNvqa8HgoyunjasennM6fSC6LtymkDVE",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "0x5079407afbA03A9B0cB72d60a160F1B32f594bCd",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website exhibits common characteristics of a fake cryptocurrency exchange or high-yield investment program (HYIP) scam, including promises of easy profits through 'AI trading' and a generic domain name (twfxcc.store). No cryptocurrency addresses are immediately visible on the landing page. Clicking 'Receive Crypto' is the most direct action to attempt to find a deposit address, which is crucial for confirming if it's a scam that solicits funds."
+    },
+    {
+        "url": "https://ultimatepips.net",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website displays characteristics of a high-yield investment program (HYIP) scam, including vague promises of high returns, claims of being 'regulated' by FCA and CySec without verifiable details, and inconsistent company names (UltimatePips vs. Horizon Empire). No cryptocurrency addresses are visible on the initial page. Clicking 'MY ACCOUNT' is a common step to access a dashboard where deposit addresses might be displayed. The page is a generic login/signup form for what appears to be an investment platform. No cryptocurrency addresses are visible on this page. To properly assess for scam indicators, further navigation is required, specifically by attempting to sign up to access potential deposit/withdrawal sections where crypto addresses might be displayed. The page is entirely blank except for a chat icon, providing no content to analyze for scam indicators or cryptocurrency addresses. No login or deposit buttons are visible. Therefore, no scam can be confirmed, and no action can be taken to reveal addresses."
+    },
+    {
+        "url": "https://ulvexionarith.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The domain 'ulvexionarith.com' does not match the 'Aiultra' branding shown in the provided image, which is a common tactic used by scam websites. The image depicts a generic cryptocurrency investment platform, a common facade for fraudulent schemes. To potentially find cryptocurrency addresses, an action like clicking a 'Recharge' or 'Deposit' button would typically be required on such a platform."
+    },
+    {
+        "url": "https://uptimisttrust.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website exhibits multiple red flags indicative of a scam. The branding is inconsistent, using 'Trust Capital Unitrust' in the header, 'Unicapitech Bank' in the footer and main content, and the domain 'uptimisttrust.com'. Additionally, there is placeholder text ('Your website tagline or description here.') visible on the homepage, which is highly unprofessional for a legitimate financial institution. The site mentions 'Digital Assets' as a service, suggesting it deals with cryptocurrency. No addresses are immediately visible, but clicking the 'BANKING' button is the most direct way to access potential deposit or login pages where cryptocurrency addresses might be requested or displayed."
+    },
+    {
+        "url": "https://uranustds.click",
+        "classification": "scam",
+        "confidence": 0.98,
+        "extracted_addresses": [],
+        "reasoning": "The website exhibits multiple characteristics of a cryptocurrency investment scam, including unrealistic promises of guaranteed high returns, claims of instant withdrawals, suspicious regulatory claims (CFTC, IFSC, CySEC for binary options in the US), and a critical inconsistency where reviews mention \"Forex Silicon\" instead of \"Uranustds\". The domain name `uranustds.click` is also suspicious. No cryptocurrency addresses are immediately visible, but the site explicitly mentions sending cryptos to a \"personal trading wallet\" after deposit, indicating that an action like logging in or signing up is required to reveal them. Clicking \"LOGIN\" is chosen to attempt to access the user dashboard and find deposit addresses."
+    },
+    {
+        "url": "https://usdc022.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb3c11196A4f3b1da7c23d9FB0A3dDE9c6340934F",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa050FFb3eEb8200eEB7F61ce34FF644420FD3522",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x43C934A845205F0b514417d757d7235B8f53f1B9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The domain usdc022.com is highly suspicious and indicative of a crypto scam, likely a fake investment platform or pig butchering scam, given its structure and association with a well-known stablecoin (USDC) in a non-official capacity. No cryptocurrency addresses are visible on the current screen. An action is required to dismiss the pop-up and explore the application further, potentially revealing deposit addresses in sections like 'Assets' or 'Trade'."
+    },
+    {
+        "url": "https://usdc661.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x47474747477b199288bF72a1D702f7Fe0Fb1DEeA",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xd944f1D1e9d5f9Bb90b62f9D45e447D989580782",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb3c11196A4f3b1da7c23d9FB0A3dDE9c6340934F",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xa050FFb3eEb8200eEB7F61ce34FF644420FD3522",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x43C934A845205F0b514417d757d7235B8f53f1B9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The domain usdc661.com is highly suspicious, characteristic of many fake cryptocurrency investment platforms that often use generic names combining crypto terms with numbers. While the 'Warm reminder' pop-up about email verification is not inherently malicious, its presence on a suspicious domain, combined with the generic trading app interface, strongly suggests a scam. No cryptocurrency addresses are immediately visible on this page, but it is highly probable they would be found after closing the pop-up and navigating to sections like 'Assets' or 'Trade' where deposit addresses are typically displayed."
+    },
+    {
+        "url": "https://vanishsafeguard.com",
+        "classification": "not scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The website sells game cheats and spoofers, which is a grey market business but not inherently a crypto scam. It lists Bitcoin, Ethereum, and Crypto Pay as accepted payment methods, but no specific addresses are visible on the current page. To determine if crypto addresses are provided for payment, further navigation to product pages or checkout is required. Clicking 'Browse Products' is the logical next step to explore payment options."
+    },
+    {
+        "url": "https://varumi.nl",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website is an e-commerce store selling general products like outdoor gear, not related to cryptocurrency. There are no visible crypto addresses, nor any elements suggesting it's a fake exchange, phishing site, or investment scam. The site appears to be a standard online shop, possibly a dropshipping store, with some inconsistencies in branding (mentioning 'Luxinor' in reviews and about section while the domain is 'varumi.nl'), but this does not indicate a crypto scam."
+    },
+    {
+        "url": "https://velantrix-aion.com",
+        "classification": "scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The platform presents itself as a cryptocurrency exchange with features like 'AI Smart Chip' and 'Quick Trade,' which are often associated with high-yield investment programs (HYIPs) or 'pig butchering' scams. The 'Major exchange listing' with a prize pool is also a common tactic to attract users to fraudulent platforms. No addresses are visible on the main page. Clicking 'Recharge' is the most direct way to reveal deposit addresses, which are crucial for identifying scam operations."
+    },
+    {
+        "url": "https://vendixa.top",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1tq8pHzwMGQ8itTqpfCG8whLtZW",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website presents itself as a generic e-commerce store with products, customer reviews, and support information. There are no elements typically associated with cryptocurrency scams, such as investment schemes, fake exchanges, or requests for crypto deposits. No cryptocurrency addresses are visible on the page, and no actions like 'Login' or 'Deposit' are expected to reveal them on this type of site."
+    },
+    {
+        "url": "https://vnexchange.me",
+        "classification": "scam",
+        "confidence": 0.8,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a cryptocurrency exchange with trading pairs and features like 'Deposit' and 'Withdrawal'. The 'Star Pool Sharing Plan' is a common characteristic of investment scams, promising high returns. No cryptocurrency addresses are visible on the current page, so clicking 'Deposit' is necessary to investigate further and potentially reveal deposit addresses."
+    },
+    {
+        "url": "https://vnexchange.top",
+        "classification": "scam",
+        "confidence": 0.7,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a cryptocurrency exchange with an 'investment plan' ('Star Pool Sharing Plan') and uses a generic '.top' domain, which are common characteristics of crypto investment scams. To further investigate and potentially find scam addresses, clicking the 'Deposit' button is necessary."
+    },
+    {
+        "url": "https://web.rocupbitoffice.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://web3.bitgettwallet.shop/h5",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://windrushs.co",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website exhibits multiple characteristics of an investment scam, including promises of 'guaranteed profits' and 'stable system for daily cashouts' with a wide range of investment types (real estate, forex, crypto). The 'Gilly from French Guiana just Withdrew $4,580.58' notification is a common tactic used by scam sites to create a false sense of activity. Although the site claims to 'Accept Cryptocurrencies', no addresses are visible on the landing page. Clicking 'LOGIN' is necessary to explore further and potentially find deposit addresses."
+    },
+    {
+        "url": "https://wp.rolaxetf.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website uses a suspicious domain, 'rolaxetf.store', which is a clear misspelling and impersonation of the legitimate Rolex brand ('rolex.com'). This is a common tactic for phishing and brand impersonation scams. Although no cryptocurrency addresses are immediately visible on the page, the site's nature as a phishing attempt falls under the broader definition of scams. There are no 'Login' or 'Deposit' buttons that would typically reveal cryptocurrency addresses on a crypto-specific scam site, so no action is required."
+    },
+    {
+        "url": "https://www.azevedioclub.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": ""
+    },
+    {
+        "url": "https://www.baceenergyassetman.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://www.bifinancegdb.vip",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://www.bigonelfj.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website bigonelfj.com appears to be an investment scam attempting to impersonate the legitimate BigONE exchange. Red flags include the suspicious domain, claims of 1000:1 leverage, large bonus offers, and the statement 'No deposit requirements' which is often a lure. Clicking the 'DEPOSIT' button is the most direct action to attempt to reveal cryptocurrency addresses used for fund transfers. The page presents a login portal for a cryptocurrency-related platform, indicated by 'Market', 'Contract', and 'Assets' in the header. No cryptocurrency addresses are visible on this initial page. To potentially find deposit addresses, logging in or registering would be the necessary next step. The domain 'bigonelfj.com' appears generic and lacks the branding typically associated with legitimate, established financial or cryptocurrency exchanges, which is a common characteristic of scam websites. Clicking the 'Login' button is required to proceed and potentially uncover further information or addresses. The website presents a login page for a crypto-related platform, indicated by terms like 'Market', 'Contract', and 'Assets'. Such platforms are frequently used in fake exchange or investment scams. No cryptocurrency addresses are visible on this page. Further interaction, such as attempting to log in, would be required to potentially reveal deposit addresses or other scam indicators."
+    },
+    {
+        "url": "https://www.bitkanusca.com/wap",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a 502 gateway error, preventing analysis of its content. Clicking \"Refresh retry\" is necessary to attempt to load the functional website and proceed with the scam analysis. I cannot classify it as a scam or not a scam based on an error page."
+    },
+    {
+        "url": "https://www.blsyqsz.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://www.btcctw.help",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The domain 'btcctw.help' is highly suspicious for a cryptocurrency exchange, especially when a legitimate BTCC exchange exists at 'btcc.com'. The site claims to be 'most compliant' but then explicitly states it is 'unregulated', which is a major contradiction and a common tactic used by scam sites. No cryptocurrency addresses are directly visible on the landing page. As this is presented as an exchange, addresses are typically found after logging in or initiating a deposit. Since no login/deposit buttons are immediately visible, clicking the prominent '\u4e86\u89e3\u66f4\u591a' (Learn More) button is the next logical step to navigate deeper into the site, where such options or addresses might be revealed. The page appears to be a legitimate app store listing for BTCC, a known cryptocurrency exchange. It describes the app's features and user base. No scam indicators or cryptocurrency addresses are present on this page, and no actions are required to find addresses."
+    },
+    {
+        "url": "https://www.ceffknks.vip",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1hHEGii2m43Tivk6U1jaogCzq6WC",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website uses a suspicious domain (ceffknks.vip) while impersonating the legitimate China Financial Futures Exchange. This is a common tactic for phishing or investment scams. No crypto addresses are visible on the login page, so clicking the login button is necessary to proceed and potentially find deposit addresses or further scam indicators."
+    },
+    {
+        "url": "https://www.chc-tradingx.xin",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://www.coinbitj.cfd",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The web server is down, displaying a Cloudflare error page (Error code 521). No content from the actual website is visible, making it impossible to assess for scam characteristics or find cryptocurrency addresses. Therefore, no action can be taken to reveal further information."
+    },
+    {
+        "url": "https://www.coinexvto.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The domain 'coinexvto.com' is highly suspicious, mimicking a legitimate exchange (CoinEx) with an added suffix, which is a common tactic for fake exchanges or phishing sites. The 'Notice' pop-up contains vague language about 'garbled data' and promises of 'compensation,' which are red flags often used in investment scams to lure users. Clicking 'I See' is necessary to dismiss the pop-up and further investigate the site's functionality, including potential deposit pages where addresses might be revealed. The domain coinexvto.com is highly suspicious, closely resembling the legitimate CoinEx exchange (coinex.com). This is a common characteristic of phishing or fake exchange scams. To confirm if it's a fake exchange attempting to solicit funds, clicking \"Quick Recharge\" is necessary to see if deposit addresses are presented. The website 'coinexvto.com' is highly suspicious as its domain name closely mimics a legitimate cryptocurrency exchange (CoinEx), which is a common tactic used by phishing and fake exchange scams. No cryptocurrency addresses are visible on the current page, but clicking 'Assets' is the most logical next step to attempt to find deposit addresses, which are typically requested by such scam platforms."
+    },
+    {
+        "url": "https://www.coinhako01.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website uses a suspicious domain (coinhako01.com) which is a common tactic for phishing or fake exchanges, mimicking the legitimate Coinhako.com. It promises extremely high and unrealistic rates of return (e.g., 7.89%, 7.23%) through vague 'AI Quantification' and 'NeuroTrade' methods, characteristic of a High-Yield Investment Program (HYIP) scam. The statement 'Income is too high Deposit funds for mining and get super value returns' is a direct red flag. Large, unsubstantiated claims like '100M+ users' and '50 Honorary awards' are also common in scam sites to feign legitimacy. No cryptocurrency addresses are directly visible, so clicking 'Participate now' is the logical next step to potentially reveal deposit instructions."
+    },
+    {
+        "url": "https://www.coinmarkcapzwh.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website domain 'coinmarkcapzwh.com' is a clear misspelling and impersonation of the legitimate 'coinmarketcap.com', which is a common tactic used by phishing and scam sites. The site claims to be a leading crypto trading platform but lacks verifiable regulatory information. Clicking '\u5132\u503c' (Deposit) is a standard action to attempt to find cryptocurrency deposit addresses. The URL 'coinmarkcapzwh.com' is highly suspicious, mimicking 'CoinMarketCap' with additional characters, which is a common tactic for phishing and scam websites. The page displays a login form, likely intended for credential harvesting. While a legitimate exchange would require login to display deposit addresses, interacting with a suspected phishing site is not recommended. Therefore, no action is taken."
+    },
+    {
+        "url": "https://www.coinruq.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a cryptocurrency exchange. The 'Notice' pop-up, which mentions 'garbled part of the data' and promises 'compensation for the loss caused by the platform,' is a common narrative used by scam platforms to explain inconsistencies or to entice users. No cryptocurrency addresses are visible on the current page. Clicking 'I See' is required to dismiss the pop-up and proceed with further investigation. The website displays market data for a suspicious mix of legitimate cryptocurrencies and numerous obscure, non-existent, or generic assets (e.g., NECLA0, AUT+N2, AGT+D, AU9999, etc.) with fabricated prices and volume. This is a common characteristic of cryptocurrency investment scams designed to simulate trading activity and entice users to deposit funds. No cryptocurrency addresses are visible on the current page. Clicking 'Quick Recharge' is the most direct action to potentially reveal deposit addresses, which would be crucial for further investigation into the scam's mechanics."
+    },
+    {
+        "url": "https://www.dealloop-vault.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website's domain (`dealloop-vault.store`) includes 'vault', which is often used by scam sites to imply security. The description of a 'community wholesale model' promising profits without clear product details is vague and characteristic of high-yield investment programs (HYIPs) or Ponzi schemes. No cryptocurrency addresses are visible on this login page. Clicking the '\u767b\u5165' (Login) button is required to proceed and potentially reveal deposit addresses. The domain 'dealloop-vault.store' is suspicious, using '.store' and 'vault' which are common in scam sites. The description of a 'community wholesale model' with 'settling profits' and the presence of a '\u63d0\u9818' (Withdraw) option are typical characteristics of investment scams, often used in 'pig butchering' schemes. No crypto addresses are visible on this login page. Clicking the '\u767b\u5165' (Login) button is necessary to proceed into the platform and potentially find deposit addresses. The website's domain (dealloop-vault.store), the description of a 'community wholesale model' involving 'distribution' and 'profit settlement' (typical of MLM/HYIP scams), and the repeated banner text are strong indicators of a scam. No crypto addresses are visible on the login page, but they are likely to appear after logging in or attempting a deposit/withdrawal. Clicking the login button is the next logical step to investigate further."
+    },
+    {
+        "url": "https://www.exo-somedx.com",
+        "classification": "not scam",
+        "confidence": 0.95,
+        "extracted_addresses": [
+            {
+                "address": "T2ICQaZkhr55xgTNsYjvjaYGECi2J7GdZW",
+                "chain": "TRC-20"
+            }
+        ],
+        "reasoning": "The website presents itself as a biotechnology company focused on medical research and products, such as cancer vaccines and exosomes. There are no mentions of cryptocurrency, investment opportunities, or any other typical scam indicators. No cryptocurrency addresses are visible on the page, and there is no indication that clicking 'Login' or 'Join Now' would reveal crypto addresses, as the site's context is entirely medical/biotech."
+    },
+    {
+        "url": "https://www.feyru.work",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a Cloudflare 'Connection timed out' error (Error code 522). No website content is visible, therefore, it's impossible to determine if it's a scam or not, or to find any cryptocurrency addresses. The page itself is not a scam, but an error message."
+    },
+    {
+        "url": "https://www.fsartrixmart-world.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website displays extremely high and likely fabricated cumulative order and amount statistics, a common tactic in investment scams to create an illusion of success. The copyright year '\u00a9 2026' is in the future, which is a significant red flag for legitimacy. Although company registration details are provided, the site's presentation as an e-commerce platform with a dashboard showing large profits is characteristic of 'pig butchering' investment scams. Clicking '\u767b\u5165' (Login) is necessary to potentially reveal cryptocurrency deposit addresses. The website presents a generic login page for 'FParagon Mart' but uses a suspicious URL (fsartrixmart-world.store) and a future copyright date (2026), which are strong indicators of a potential scam, likely a fake investment platform. No crypto addresses are visible on this page, so clicking the login button is necessary to investigate further for scam-related content or deposit addresses. The website displays a copyright date of 2026, which is in the future, a common tactic used by scam websites to appear legitimate. The domain name 'fsartrixmart-world.store' is generic and suspicious. No cryptocurrency addresses are visible on this login page. An action is required to attempt to log in to potentially reveal deposit addresses or further scam mechanisms. I will fill a dummy username to proceed."
+    },
+    {
+        "url": "https://www.fsartrixmart-zone.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website displays suspiciously high cumulative order and amount numbers, typical of investment scams. The copyright year (2026) is in the future, which is a significant red flag for legitimacy. Furthermore, the registered company's business scope does not include cryptocurrency, investment, or financial services, yet the website presents itself with investment-like statistics. These elements strongly suggest an investment scam. Clicking the '\u767b\u5165' (Login) button is a logical next step to potentially uncover cryptocurrency deposit addresses. The website presents a generic 'Mart' login page and has a copyright date of 2026, which is in the future, a common red flag for scam websites. No cryptocurrency addresses are visible on this initial page. Clicking the 'Go to register' link is chosen as it's a common next step on such sites to potentially reveal deposit addresses or further scam mechanisms. The domain 'fsartrixmart-zone.store' is highly suspicious and often used by scam websites, despite the page presenting a generic registration form. No cryptocurrency addresses are visible on this page. To investigate further and potentially find addresses, clicking the 'Login' button is the next logical step."
+    },
+    {
+        "url": "https://www.fsocietymart-arena.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website, named 'FParagon Mart', displays a 'Traffic Marketing Monetization Report' and large cumulative order/amount figures, which are highly unusual for a standard e-commerce platform and more indicative of an investment dashboard. The copyright year is set to 2026, which is in the future. These elements strongly suggest an investment scam disguised as an e-commerce platform. No cryptocurrency addresses are immediately visible, but they are likely to appear after logging in or registering, which is a common tactic for such scams. Clicking '\u767b\u5165' (Login) is necessary to investigate further. The page is a login portal for 'FParagon Mart'. No cryptocurrency addresses are visible on this initial page. To determine if this is a crypto scam and to find potential deposit addresses, it is necessary to proceed past the login screen. Clicking the '\u767b\u5165' (Login) button is the next logical step. The domain 'fsocietymart-arena.store' is suspicious for a legitimate trading or e-commerce platform, which often indicates a potential scam, though direct evidence is not present on this specific page. The page is a login portal for 'FParagon Mart'. No cryptocurrency addresses are visible on this initial page. To determine if it's a crypto scam and to find potential addresses, it's necessary to attempt to log in or register, as these details are usually found post-authentication on deposit/withdrawal pages. The domain name 'fsocietymart-arena.store' is suspicious for a legitimate e-commerce or financial platform, suggesting a potential phishing or investment scam. Clicking the 'Login' button is the next logical step to explore further."
+    },
+    {
+        "url": "https://www.gmoomg.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "TDkAnyGrMH7xfGKdpwoVCzMroCCnbk9um3",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "0x719DeA9eA99AdCb55b7f03f2FC5CE9858cB13249",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x60F5C97E66bd87d11cB48d13283f25Ef7F6a9825",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8d6DeE13685299c487f461FaA83d4d96531c1b6F",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "bc1prcp6s9ezry3cckhmrl6mk7p7f4rpjp2q0anrl9gzqvjk73wu4hgs0p9fht",
+                "chain": "BTC_Segwit"
+            },
+            {
+                "address": "0xf71d18625537A92D4dC89060d767a99850957c2e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "3CD74Q6WNcKik1Ztjsw6wpSRtxhq9ASD99",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "TGu3EM6BBdMExZDhTMs9RTpfcV84Z1iY5G",
+                "chain": "TRC-20"
+            },
+            {
+                "address": "TXebJ49EkxBE7qDZzJQMxDtsHWiR2CJxqr",
+                "chain": "TRC-20"
+            }
+        ],
+        "reasoning": "The domain gmoomg.com is not the official GMO Click Securities website, despite using the GMO logo. The site promotes 'DEFI STAKING' and 'Pledge mining,' which are common features in cryptocurrency investment scams designed to lure users with promises of high returns. The combination of domain impersonation and typical scam features indicates a high likelihood of a scam. Clicking 'Assets' is a standard step to potentially reveal deposit/withdrawal addresses."
+    },
+    {
+        "url": "https://www.goodcmvip.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [
+            {
+                "address": "1dec13ba525529cffd4c7f8a35d51121",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website goodcmvip.com impersonates the legitimate CME Group, a major financial derivatives exchange, to present itself as a cryptocurrency trading platform. This is a common tactic for phishing and investment scams. No cryptocurrency addresses are visible on the current page, but clicking '\u5feb\u901f\u5132\u503c' (Quick Deposit) is likely to reveal deposit addresses, which is a necessary step to confirm the scam."
+    },
+    {
+        "url": "https://www.indogezje.com",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The website is displaying a Cloudflare \"Connection timed out\" error (Error code 522). No content from the actual website is visible, making it impossible to assess for scam characteristics or find cryptocurrency addresses. The current page itself is an error message and not a scam."
+    },
+    {
+        "url": "https://www.jisfound.org",
+        "classification": "not scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website appears to be a legitimate foundation focused on male health in Taiwan, providing information and services related to health awareness and support. There are no elements or content typically associated with cryptocurrency scams, fake exchanges, or investment schemes. No cryptocurrency addresses are visible on the page, and no actions are likely to reveal them."
+    },
+    {
+        "url": "https://www.lcin.top",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website lcin.top presents itself as a crypto trading platform with generic, unverifiable claims (e.g., '100W+ Satisfied users', '3+ Stable operation for 3 years') and a suspicious domain name, which are common characteristics of fake exchanges. No cryptocurrency addresses are visible on the landing page. Clicking 'Register Now' is the next logical step to explore further and potentially find deposit addresses, which are typically revealed after account creation or login."
+    },
+    {
+        "url": "https://www.lcon.click",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The domain name \"lcon.click\" is highly suspicious and a common indicator of a phishing or scam website, especially given the name \"Lcoin\" displayed on the page. While the content attempts to mimic a legitimate cryptocurrency exchange with various trading features and statistics, no cryptocurrency addresses are visible on this landing page. To investigate further and potentially find deposit addresses, the next logical step is to click the \"Register Now\" button, which would typically lead to the registration process and subsequent access to deposit functionalities."
+    },
+    {
+        "url": "https://www.marlindefif.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a Cloudflare 'Connection timed out' error (Error code 522), indicating that the website content is not accessible. Therefore, no scam content or cryptocurrency addresses can be found, and no further action is possible on this page."
+    },
+    {
+        "url": "https://www.megabitrrt.com",
+        "classification": "not scam",
+        "confidence": 0.1,
+        "extracted_addresses": [],
+        "reasoning": "The website is currently displaying a Cloudflare 'Connection timed out' error (Error code 522). This means the actual content of the website is inaccessible, and therefore, it cannot be analyzed for scam indicators or cryptocurrency addresses. The page itself is an error message, not a scam. No actions are required as there are no interactive elements relevant to finding crypto addresses."
+    },
+    {
+        "url": "https://www.poizvip-online.cc",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website presents as a general e-commerce platform with no visible cryptocurrency-related content, investment schemes, or exchange functionalities. While the domain name `poizvip-online.cc` is suspicious and suggests it might be a fake e-commerce site, there is no evidence on the current page to classify it as a crypto scam. Therefore, no action is required to find crypto addresses."
+    },
+    {
+        "url": "https://www.rexiqok.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "The page displays a '502 ! Sorry, gateway error' message, indicating a website error. It is not possible to determine if the site is a scam or to find cryptocurrency addresses from this error page. No actions on this page are likely to reveal relevant information."
+    },
+    {
+        "url": "https://www.savashop-choice.store",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a general business/e-commerce platform and contains no mention of cryptocurrency, blockchain, or related investment schemes. No cryptocurrency addresses are visible on the page. While the future copyright year (2026) is a general red flag for website maintenance, it does not indicate a crypto scam. Therefore, it is not classified as a crypto scam. No action is needed as there's no indication that clicking buttons would reveal crypto addresses."
+    },
+    {
+        "url": "https://www.savashop-zonehub.store",
+        "classification": "not scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as a legitimate business platform with detailed company registration information, including a unified business number, company name (\u653f\u965e\u6709\u9650\u516c\u53f8), representative, address, and a comprehensive list of business activities. There are no visible cryptocurrency addresses or any content suggesting cryptocurrency-related activities, investments, or typical scam characteristics. The copyright date being in the future (2026) is a minor anomaly but not indicative of a scam on its own. Therefore, no action is required to find crypto addresses, as the site does not appear to be involved with cryptocurrency in a scam context."
+    },
+    {
+        "url": "https://www.sebca.art",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1f4a37539c2636c24ef31a631aaad154",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website displays several scam indicators, including inconsistent domain names (sebca.art vs sebc.site in copyright), exaggerated claims of being a 'leading platform' with millions of users, and using a generic Gmail address for customer service. No cryptocurrency addresses are visible on the landing page. Clicking 'Login' is necessary to explore further for potential deposit addresses."
+    },
+    {
+        "url": "https://www.sebca.sbs",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [
+            {
+                "address": "1732258a77eb2c4ed258a6e621adccde",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "1f4a37539c2636c24ef31a631aaad154",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website makes generic, unsubstantiated claims about being a 'worlds leading digital asset trading platform' with millions of users and years of safe operation, but provides inconsistent information regarding its operational history (3 vs 7 years). A significant red flag is the use of a generic '@gmail.com' address for official customer service and market cooperation, which is highly unprofessional for a legitimate financial institution. The domain '.sbs' is often associated with scam sites, and the copyright mentions a different domain ('sebc.site'). No crypto addresses are visible on the landing page, but they are likely to appear after logging in or attempting a deposit, which is a common tactic for fake exchanges."
+    },
+    {
+        "url": "https://www.tatung-world.com",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website appears to be a legitimate e-commerce platform selling various consumer goods like electronics and home appliances. There are no mentions of cryptocurrency, investments, or any typical scam indicators. No cryptocurrency addresses are visible on the page."
+    },
+    {
+        "url": "https://www.twshop-sale.store",
+        "classification": "not scam",
+        "confidence": 1.0,
+        "extracted_addresses": [],
+        "reasoning": "The website appears to be a legitimate Taiwanese company, '\n\u5fae\u53ef\u6709\u9650\u516c\u53f8' (Weike Co., Ltd.), offering online courses and marketing services. Detailed company registration information is provided, including a tax ID, address, and business scope. There are no typical indicators of a cryptocurrency scam, and no cryptocurrency addresses are visible on the page."
+    },
+    {
+        "url": "https://www.twxauxjpfivt.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://www.usdcsyh.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website displays a suspicious message instructing the user to \"visit in the wallet\" and \"run it in the wallet application\" because it's a \"decentralized website\". This is a common phishing tactic to trick users into connecting their cryptocurrency wallets to a malicious site or application. The grammatical error (\"You are currently visit\") also suggests a low-quality, potentially fraudulent site. No cryptocurrency addresses are visible on the page, and clicking the \"Link Copy\" button is not expected to reveal addresses but rather to advance the scam."
+    },
+    {
+        "url": "https://www.wallateakiq.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "0x979Ffb526F254196a8e2Ed619E817e42053b5c7b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x80Fe3F7aa53e9a3725CDA0170DA64b8B70aae961",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x11606e828ca677D5ce435e75e3a15B71166e9CEA",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6c0A875aF1b54a00Acb5C4Cd6BF74b3D2cb912e8",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x23F991bC1dED593B3DB134dd7C4D7BB1835b228f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA5fd3299897698Ed0F7bD27F938C7D2979d81aA6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xe2b146fdc0C866c0d122c68b8a7c72F9b791b354",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x101126BaC24ecD0bdC0d061b8621496761c04D89",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xCb9eCdA8688Ff5D5651c9ce9E40CAF235dE2462D",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xAef1FE5e11c500223971FfBe1341f1E3f4358820",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x1919aB68f3F122C8e45D56F5E04b279956aBE8cf",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x77c27E6356D6E2Afc5041b80AD9F63A7f8A667C6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xE2BfB9Ef7cf611606f2e774Cbc0C2039527ba6e6",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x2885c61F7DEEDDb6f4C56a0AAe433257B7Ca88ea",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8B934D9c130b4D97f0D9c232a8387a9bA6c72831",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xF29e4033f7A71853801191c41FF7d28bbF1665b9",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x5FddD2a8cbC0BA5dD1956074EF65623b504c3FB4",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xcE702E71a6339Ca630A1d36D58D2E761AefC9bBa",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xF3c468D5B3b62813cA57b3AbCa3d89600b21A47C",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0e484A6a4F9af99e84B4713D5CAB905E4263ad20",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb4099ca1E277c0fa2c514916fAE6159c4b93e357",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x496F56fFd6B358665b160d36E46C08cE351a3191",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x08df81445d04c1b599c39843BDD6E49912393872",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xCc3264092f9AEB0a210C8d2Cb69CCEAC9a05AB84",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xEDd8Cfa5CCCdd5A440C5B82794d19e42161eF94e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6f34A26C1c362BF8c046e22E0A2eaE55617D138A",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xA67301e57dcbbf7bce6b4e05f5d9Fb1CDC52E91f",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xb38Cc617bFe6505d3Ed82deBd3005bdC1a5e151D",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8cb7C8005b59F7110513Fa6988229fe4e98Fc9ae",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x3b900120FBcc3a9EdA9b39a3962E664457386FA0",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x41FC713431499c0684Cf5c843B97171CB268F3f1",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x0fC8b21eF4b2e1E484d5f7E78661a851d0c75B4e",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x60014e477A56F625Dbb259345B087A1f071024ce",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xDbb78af20F4968dd014BB81eFF10da4353EAE25b",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x4864CC56608024Db4f43C3B9cDf5Bde1d1a96c13",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xbF075Ef48329D47177da9cE5ab7AEe70636714eE",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x740C579b263Be78aC174a4E62b028419dCe783e7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0xED72652EF1c4D2869f171AA01b2726035F20C250",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x6D05eF0e29D287fB72Fc68e876425318e75d052d",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x8287aCa6C5FD07A499075D27Fe8554F63B21D8b7",
+                "chain": "ETH/ERC-20"
+            },
+            {
+                "address": "0x41F40A51967a0d837e1fde9B3bc8d1c596a8a05c",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website uses suspicious and grammatically incorrect language (\"You are currently visit a decentralized website\"). It immediately prompts the user to \"Connect CoinBase\" without providing any context about what service it offers, which is a common tactic in phishing scams designed to trick users into connecting their wallets to a malicious site. Clicking the \"Connect CoinBase\" button is necessary to investigate further for potential address exposure or phishing attempts. The website uses suspicious and grammatically incorrect language (\"You are currently visit a decentralized website\"). It immediately prompts the user to \"Connect CoinBase\" without providing any context about what service it offers, which is a common tactic in phishing scams designed to trick users into connecting their wallets to a malicious site. Clicking the \"Connect CoinBase\" button is necessary to investigate further for potential address exposure or phishing attempts. The website uses grammatically incorrect language (\"You are currently visit a decentralized website\") and immediately prompts the user to \"Connect CoinBase\" without providing any clear context or purpose. This is a common tactic used in phishing and wallet-draining scams. Clicking 'Connect CoinBase' is the next logical step a user might take, and it's designed to interact with a wallet, which could lead to the revelation of addresses or a scam attempt."
+    },
+    {
+        "url": "https://www.wandiesshop-discount.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "15b3ef848a854cb5b7368eff9e2d5a9d",
+                "chain": "BTC_Legacy"
+            }
+        ],
+        "reasoning": "The website presents itself as 'Wandies Shop' but also claims to be a 'professional digital asset management platform,' which is a strong contradiction. It displays suspicious, consistently high 'cumulative orders' and 'cumulative amount' with 100% completion, and a continuously growing 'order trend' graph, common tactics in investment scams. The company registration details provided do not align with digital asset management. The copyright year '2026' is in the future. It is highly probable that cryptocurrency addresses will be revealed after registration or login. Clicking '\u8a3b\u518a' is the next logical step to investigate further. The website claims to be a \"professional digital asset management platform\" but uses a suspicious domain (`wandiesshop-discount.store`) and displays a future copyright year (\u00a9 2026), which are strong indicators of a scam. No cryptocurrency addresses are visible on the current registration page. Clicking the '\u767b\u5165' (Login) button is the next step to potentially reveal deposit addresses or further scam mechanisms."
+    },
+    {
+        "url": "https://www.wandivashop-outlet.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as an e-commerce platform but also vaguely mentions being a 'digital asset management platform'. A significant red flag is the copyright year '\u00a9 2026', which is in the future, indicating a likely fraudulent or poorly maintained site. While company information is provided, the discrepancy between the displayed shop name 'Wandies Shop' and the domain 'wandivashop-outlet.store' also raises suspicion. No cryptocurrency addresses are visible on the current page. To investigate further for potential crypto scam elements, clicking the '\u8a3b\u518a' (Register) button is necessary, as it might lead to a dashboard or deposit page where addresses could be revealed. The website claims to be a 'digital asset management platform' but uses a suspicious domain name ('-outlet.store') and has a future copyright date (\u00a9 2026), which are common red flags for investment scams. No cryptocurrency addresses are visible on the registration page. Clicking the 'Login' button is the next step to potentially access a dashboard where deposit/withdrawal addresses might be displayed."
+    },
+    {
+        "url": "https://www.warelyshop-rack.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as an e-commerce shop ('Wandies Shop') but also claims to be a 'digital asset management platform', which is a strong contradiction and a common tactic for investment scams. The cumulative order and amount statistics are excessively high and likely fabricated. The copyright year is set to 2026, a significant red flag for scam sites. Clicking '\u767b\u5165' (Login) is likely to reveal cryptocurrency deposit instructions or investment opportunities. The website presents itself as a digital asset management platform but uses a suspicious domain (warelyshop-rack.store) and a generic 'shop' name. The copyright year is in the future (2026), which is a common tactic for newly created scam sites. No crypto addresses are visible on the login page, but they are likely to be revealed after logging in, which is a typical pattern for fake investment or phishing scams. Clicking the login button is necessary to proceed with the investigation. The website exhibits several scam indicators: a suspicious domain name (warelyshop-rack.store), a future copyright date (\u00a9 2026), and conflicting business descriptions (digital asset management platform vs. trading company/logistics center). No cryptocurrency addresses are visible on the current login/registration page. Since it claims to be a 'digital asset management platform', it's highly probable that deposit addresses would be revealed after registration or login. Clicking '\u8a3b\u518a' (Register) is chosen to proceed and attempt to find any such addresses."
+    },
+    {
+        "url": "https://www.yqeydfhr.cc",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": ""
+    },
+    {
+        "url": "https://www.zfxfa.vip",
+        "classification": "not scam",
+        "confidence": 0.05,
+        "extracted_addresses": [],
+        "reasoning": "The webpage displays a Cloudflare 'Connection timed out' error (Error code 522), preventing access to any content. Therefore, it is impossible to determine if the site is a scam or to find any cryptocurrency addresses. No action is required as no relevant interactive elements are present."
+    },
+    {
+        "url": "https://xelate.store",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [],
+        "reasoning": "The website exclusively accepts irreversible cryptocurrency payments (USDT, USDC, ETH, BTC, Binance Pay) for gaming accounts, which is a common tactic used by scammers to prevent chargebacks. No traditional payment methods are offered. Crypto addresses are expected to be revealed during the checkout process after browsing accounts, hence the action to click 'Browse Accounts'. The page presents a login form for 'Xelate Store'. No cryptocurrency addresses are visible on this initial page. To determine if the site is a scam or if it involves cryptocurrency transactions, further interaction is required. Clicking the 'SIGN IN' button is the next logical step to proceed and potentially reveal more information about the site's purpose and content. The page presents a standard login form for 'Xelate Store' with no visible cryptocurrency addresses. There is no immediate indication of a scam from this page alone. To further investigate the site's nature and potentially locate crypto addresses, clicking the 'Sign Up Here' link is the next logical step to access the site's internal pages."
+    },
+    {
+        "url": "https://xtbcopy.com",
+        "classification": "scam",
+        "confidence": 0.9,
+        "extracted_addresses": [
+            {
+                "address": "1M7LMu1gAf7cTkPJaVAmosGo6E6FvgK85C",
+                "chain": "BTC_Legacy"
+            },
+            {
+                "address": "0x158555521Fcdc65b30977B18F79828f0Aa16D8F0",
+                "chain": "ETH/ERC-20"
+            }
+        ],
+        "reasoning": "The website promotes 'Copy Trading' with promises of 'Raw spreads' and 'Lightning speed execution', which are common characteristics of investment scams. The name 'XTBCOPY' is suspicious, potentially mimicking a legitimate financial institution (XTB). There is no clear regulatory information, physical address, or team details. No cryptocurrency addresses are visible on the landing page, so clicking 'Login Account' is necessary to check for deposit instructions or addresses."
+    },
+    {
+        "url": "https://xtokentradct.com",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://yippeea.com/veiynl",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    },
+    {
+        "url": "https://zanqbanc.com",
+        "classification": "scam",
+        "confidence": 0.95,
+        "extracted_addresses": [],
+        "reasoning": "The website presents itself as 'Genius Bank' but operates under a suspicious domain (zanqbanc.com) that does not match the stated bank name or the email domain (geniusocean.com). It explicitly mentions cryptocurrency as a payment option and offers investment plans with interest rates, which are common characteristics of cryptocurrency investment scams. To find potential deposit addresses, clicking 'Login Now' is the most logical next step."
+    },
+    {
+        "url": "https://zentromarket.live",
+        "classification": "not scam",
+        "confidence": 0.0,
+        "extracted_addresses": [],
+        "reasoning": "Analysis failed. Status: DEAD"
+    }
+]
